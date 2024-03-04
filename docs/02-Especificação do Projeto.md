@@ -167,17 +167,17 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ## Gestão de Orçamento
 
-# Custos do projeto: SmartCare 
+### Custos do projeto: SmartCare 
 
 Os custos fixos do projeto estão distribuídos sobre a mão de obra dos desenvolvedores, sobre os custos de alocar o projeto na nuvem e sobre as assinaturas das plataformas de publicação de apps. 
 Os custos fixos da equipe, foram calculados sobre o valor de horas trabalhas, que teve uma estimativa de aproximadamente 1200 horas de trabalho para desenvolver o app. 
 Assim o custo bruto do desenvolvimento do projeto ficou estipulado em aproximadamente R$: 130.200,00 Reais em um período de 5 meses de trabalho.  
 
-# Publicação de APP nas plataformas de distribuição APP Store/ Play Store 
+### Publicação de APP nas plataformas de distribuição APP Store/ Play Store 
 
 Para publicação de aplicativos na Apple (App Store), tem o pagamento de algumas taxas anuais: A taxa anual do Apple Developer Program é de US$ 99 Dólares e a taxa anual do Apple Developer Enterprise Program é de US$ 299 Dólares. Já a Play Store tem um custo Anual de R$: 89,90 por ano. 
 
-# Preço final do projeto  
+### Preço final do projeto  
 
 Finalizando os custos fixos, atribuiremos a margem de lucro em cima do valor total do projeto que vai ser de 15%, que é um valor razoável dentro do mercado.
 
