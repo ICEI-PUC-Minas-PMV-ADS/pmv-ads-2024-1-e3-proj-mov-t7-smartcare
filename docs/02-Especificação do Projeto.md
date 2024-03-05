@@ -110,8 +110,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Descrição das Restruções                                 |Prioridade|
 |--|---------------------------------------------------|---|
-|RG-001|####Segurança de Dados
-|Teste| ALTA |
+|RG-001|Segurança de Dados: Implementar medidas robustas de seguraça para as informações médicas sensíveis dos usuários. Isso inclui autenticação segura, autorização adequada e proteção contra ameaças| ALTA |
 |002| Não pode ser desenvolvido um módulo de backend        |
 |003| Não pode ser desenvolvido um módulo de backend        |
 |004| Não pode ser desenvolvido um módulo de backend        |
