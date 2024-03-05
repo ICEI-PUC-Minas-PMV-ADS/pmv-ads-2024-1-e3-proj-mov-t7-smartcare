@@ -108,10 +108,18 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|ID| Descrição                                  |Prioridade|
+|--|---------------------------------------------------|---|
+|001| O projeto deverá ser entregue até o final do semestre| teste |
+|002| Não pode ser desenvolvido um módulo de backend        |
+|003| Não pode ser desenvolvido um módulo de backend        |
+|004| Não pode ser desenvolvido um módulo de backend        |
+|005| Não pode ser desenvolvido um módulo de backend        |
+|006| Não pode ser desenvolvido um módulo de backend        |
+|007| Não pode ser desenvolvido um módulo de backend        |
+|008| Não pode ser desenvolvido um módulo de backend        |
+|009| Não pode ser desenvolvido um módulo de backend        |
+|010| Não pode ser desenvolvido um módulo de backend        |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
