@@ -110,7 +110,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Descrição das Restruções                                 |Prioridade|
 |--|---------------------------------------------------|---|
-|RG-001|**Segurança de Dados:** Implementar medidas robustas de seguraça para as informações médicas sensíveis dos usuários. Isso inclui autenticação segura, autorização adequada e proteção contra ameaças| ALTA |
+|RG-001|**Segurança de Dados:** Implementar medidas robustas de seguraça para as informações médicas sensíveis dos usuários. Isso inclui autenticação segura, autorização adequada e proteção contra ameaças.| ALTA |
 |RG-002| **Compatibilidade com Dispositivos Móveis:** Garantir que o SmartCart seja compatível com uma ampla variedade de dispositivos móveis, como smartphones e tablets, e com diferentes sistemas operacionais, como Android e iOS.| ALTA |        
 |RG-003|**Acessibilidade:** Comprir padrões de acessibilidade para garantir que o SmartCare seja utilizável por pessoas com deficiências. Isso inclui a implementação de recursos como leitores de tela, tamanhos de fonte ajustáveis e contraste adequado para garantir que a plicação seja acessível a todos os usuários, independentemente de suas habilidades. | ALTA |
 |RG-004|**Desempenho e Otimização:** Garantir que a aplicação seja otimizada para um desempenho eficiente, mesmo em dispositivos móveis mais antigo ou com recursos limitados. Isso inclui a minimização do consumo de recursos, como CPU e memória, para proporcionar uma experiência fluida aos usuários | MÉDIA |       
