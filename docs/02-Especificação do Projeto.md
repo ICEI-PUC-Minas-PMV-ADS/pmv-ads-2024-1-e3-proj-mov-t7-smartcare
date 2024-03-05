@@ -108,9 +108,10 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Descrição                                  |Prioridade|
+|ID| Descrição das Restruções                                 |Prioridade|
 |--|---------------------------------------------------|---|
-|001| O projeto deverá ser entregue até o final do semestre| teste |
+|RG-001|####Segurança de Dados
+|Teste| ALTA |
 |002| Não pode ser desenvolvido um módulo de backend        |
 |003| Não pode ser desenvolvido um módulo de backend        |
 |004| Não pode ser desenvolvido um módulo de backend        |
