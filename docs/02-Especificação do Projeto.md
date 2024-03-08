@@ -13,13 +13,57 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 **Ocupação:** Advogado
 
-**Aplicativos:** Instagram, Pinterest,Twitter.
+**Aplicativos:** Instagram, Pinterest, Twitter.
 
 **Motivações:** Ana Luiza é uma profissional dedicada que se esforça para alcançar seus objetivos na carreira. Ela valoriza muito sua saúde e bem-estar, pois sabe que são essenciais para sua produtividade e sucesso profissional. 
 
 **Frustrações:** Ana Luiza tem dificuldade em encontrar tempo para cuidar de sua saúde devido à carga de trabalho pesada e ao estresse constante da profissão. Ela também se sente sobrecarregada com as responsabilidades domésticas e muitas vezes negligencia seus próprios cuidados. 
 
-**Hobbys:** Ana Luiza adora praticar yoga nas horas vagas para aliviar o estresse e relaxar. Ela também gosta de ler livros de ficção e passar tempo com sua família e amigos.
+**Hobbies:** Ana Luiza adora praticar yoga nas horas vagas para aliviar o estresse e relaxar. Ela também gosta de ler livros de ficção e passar tempo com sua família e amigos.
+
+**Marcos Silva**
+
+**Idade:** 50 anos
+
+**Ocupação:** Empresário
+
+**Aplicativos:** Facebook, Linkedin, Youtube.
+
+**Motivação:** Marcos é um empreendedor ambicioso que está sempre em busca de novos desafios e oportunidades de negócios. Ele valoriza muito sua saúde e bem-estar, pois sabe que são fundamentais para sua capacidade de liderança e tomada de decisões. 
+
+**Frustrações:** Marcos tem dificuldade em manter uma rotina saudável devido ao ritmo acelerado de trabalho e às viagens frequentes. Ele também enfrenta problemas de estresse e ansiedade devido às pressões do mundo dos negócios. 
+
+**Hobbies:** Marcos tem dificuldade em manter uma rotina saudável devido ao ritmo acelerado de trabalho e às viagens frequentes. Ele também enfrenta problemas de estresse e ansiedade devido às pressões do mundo dos negócios. 
+
+
+**Fernanda Soares**
+
+**Idade:** 28 anos
+
+**Ocupação:** Professora
+
+**Aplicativos:** Instagram, Pinterest, Youtube.
+
+**Motivações:** Fernanda é uma educadora dedicada que se preocupa com o bem-estar de seus alunos. Mãe de uma criança de 3 anos, ela valoriza muito sua saúde e bem-estar, pois sabe que são essenciais para sua energia e disposição no trabalho. 
+
+**Frustrações:** Fernanda enfrenta dificuldades em manter uma rotina saudável devido ao estresse e às longas horas de trabalho. Além disso, ela lida com problemas, como ansiedade devido às pressões da profissão. A preocupação constante com o equilíbrio entre o trabalho e a vida familiar também pode ser desgastante para ela.
+
+**Hobbies:** Fernanda: gosta de praticar ioga e meditação para aliviar o estresse e relaxar. Ela também adora ler e escrever poesia como forma de expressão artística. 
+
+
+**Pedro Oliveira**
+
+**Idade:** 60 anos
+
+**Ocupação:** Aposentado
+
+**Aplicativos:** WhatsApp, Facebook.
+
+**Motivação:** Pedro é um aposentado que valoriza muito sua saúde e bem-estar. Ele gosta de aproveitar a vida ao máximo e se mantém ativo física e socialmente. 
+
+ **Frustações:**  Pedro enfrenta problemas de saúde crônicos, como hipertensão e diabetes, que exigem cuidados constantes.
+
+ **Hobbies:**  Pedro enfrenta problemas de saúde crônicos, como hipertensão e diabetes, que exigem cuidados constantes.
 
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
