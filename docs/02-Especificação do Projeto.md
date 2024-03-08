@@ -8,8 +8,10 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
+|Ana Luiza| Aplicativos| Motivações| Frustrações|Hobby|
+|Idade:35 anos|Instagram|Ana Luiza é uma profissional dedicada que se esforça para alcançar seus objetivos na carreira.Ela valoriza muito sua saúde e bem-estar, pois sabe que são essenciais para sua produtividade e sucesso profissional.|Ana Luiza tem dificuldade em encontrar tempo para cuidar de sua saúde devido á carga de trabalho pesada e ao estresse constante da profissão. Ela também se sente sobrecarregada com as responsabilidades domésticas e muitas vezes negligencia seus próprios cuidados.|Ana Luiza adora praticar yoga nas horas vagas para aliviar o estresse e relaxar. Ela também gosta de ler livros de ficção e passar tempo com sua família e amigos.|
+|Ocupação:Advogado|Pinterest|
+                  |Twitter|
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
