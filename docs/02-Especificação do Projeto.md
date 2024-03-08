@@ -78,14 +78,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Pedro Oliveira| Utilizar o SmartCare para configurar lembretes de horários para tomar sua medicação para diabetes. | Garantir que Pedro siga corretamente seu tratamento medicamentoso para controlar sua diabetes e evitar complicações de saúde.|
 
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Modelagem do Processo de Negócio 
 
@@ -120,15 +112,30 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir. 
+
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| Permitir que os usuários registrem, editem, consultem e excluam receitas médicas (CRUD), incluindo informações como: data de emissão, médico prescritor, validade, data de retorno, medicamentos receitados e indicações e contraindicações recomendadas.  | ALTA | 
+|RF-002|  O sistema deve permitir que os usuários registrem, editem, consultem e excluam (CRUD) medicamentos, incluindo informações como: nome dos medicamentos, preços, locais de venda, doses e horários recomendados, prazo para consumo e quantidade em estoque.  | ALTA|
+|RF-003|O sistema deve permitir que os usuários registrem, editem, consultem e excluam (CRUD) contatos de emergência, incluindo informações como: Nome, número de contato, endereço do contato.| ALTA|
+|RF-004|O sistema deve permitir o cadastro, consulta, atualização e exclusão (CRUD) de exames médicos, incluindo informações como: Nome do exame, Recomendação médica(documento), Local do exame, data e horários para realização, status (realizado, ou a fazer). No caso de exames já realizado deve ser possível a anexação de documentos como laudos, resultados, imagens, vídeos, dentre outras formas de Mídias de exames.|ALTA|
+|RF-005|O sistema deve permitir que novos usuários se cadastrem na plataforma, incluindo informações como: Nome, data de nascimento, e-mail e telefone celular.|ALTA|
+|RF-006|O sistema deve permitir que usuários consultem, editem ou excluam suas informações.|ALTA|
+|RF-007|Permitir que os usuários registrem a quantidade atual de cada medicamento em estoque.|ALTA|
+|RF-008|Permitir que os usuários cadastrem informações de contatos de emergência, incluindo nome, relação e número de telefone.|ALTA|
+|RF-009|Permitir que os usuários cadastrem novos medicamentos, incluindo nome, dosagem, forma de administração e frequência de uso.|ALTA|
+|RF-010|Permitir que os usuários registrem quando tomaram seus medicamentos, fornecendo uma visão geral do cumprimento do regime de tratamento.|ALTA|
+|RF-011|O sistema deve permitir que novos usuários se cadastrem na plataforma.|ALTA|
+|RF-012|Permitir que os usuários registrem informações sobre exames médicos realizados, incluindo data, tipo de exame, resultados e observações.|MÉDIA|
+|RF-013|O sistema deve exigir confirmação da administração da dose do usuário e garantir que a quantidade tomada seja subtraída da quantidade em estoque de modo a manter atualizado a quantidade disponível de forma automática.|MÉDIA|
+|RF-014|O sistema deve facilitar o acesso aos contatos de emergência, com uma tela dedicada para tal em destaque.|MÉDIA|
+|RF-015|O sistema deve emitir lembretes sobre datas e prazos relacionados à receita médica, como consultas de retorno, prazos e horários da consulta de retorno e validade da receita.|BAIXA|
+|RF-016|O sistema deve emitir lembretes sobre horários e prazos para a administração de medicamentos, assim também como deve alertar sobre a necessidade de reposição quando o estoque estiver baixo.|BAIXA|
+|RF-017|O sistema deve emitir lembretes sobre datas e prazos para a realização de exames.|BAIXA|
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
