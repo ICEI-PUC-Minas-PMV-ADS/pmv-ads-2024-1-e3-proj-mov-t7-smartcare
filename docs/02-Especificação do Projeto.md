@@ -66,26 +66,17 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
  **Hobbies:**  Pedro enfrenta problemas de saúde crônicos, como hipertensão e diabetes, que exigem cuidados constantes.
 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Ana Luiza  | Utilizar o SmartCare para configurar lembretes de horários para tomar seus medicamentos diários.          | Garantir que não esqueça de tomar seus medicamentos nos horários corretos, garantindo assim a eficácia de seu tratamento médico.     |
+|Marcos Silva      |   Ação: Utilizar o SmartCare para programar lembretes de horários para tomar sua medicação para controle de pressão arterial.  | Garantir que Marcos mantenha sua pressão arterial sob controle, seguindo corretamente seu tratamento medicamentoso.  |
+|Fernanda Soares| Ação: Utilizar o SmartCare para receber lembretes de horários para administrar a sua medicação para ansiedade.| Garantir que Fernanda se lembre de tomar suas medicações precisas sobre os horários de administração da medicação destinada ao controle da ansiedade, assegurando que Fernanda mantenha uma rotina consistente de cuidados pessoais.|
+|Pedro Oliveira| Utilizar o SmartCare para configurar lembretes de horários para tomar sua medicação para diabetes. | Garantir que Pedro siga corretamente seu tratamento medicamentoso para controlar sua diabetes e evitar complicações de saúde.|
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
