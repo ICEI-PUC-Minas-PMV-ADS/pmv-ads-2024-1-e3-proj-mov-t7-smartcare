@@ -8,8 +8,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 **Ana Luiza**
+
 **Idade:** 35 anos
+
 **Ocupação:** Advogado
+
 **Aplicativos:** Instagram, Pinterest,Twitter.
 
 **Motivações:** Ana Luiza é uma profissional dedicada que se esforça para alcançar seus objetivos na carreira. Ela valoriza muito sua saúde e bem-estar, pois sabe que são essenciais para sua produtividade e sucesso profissional. 
