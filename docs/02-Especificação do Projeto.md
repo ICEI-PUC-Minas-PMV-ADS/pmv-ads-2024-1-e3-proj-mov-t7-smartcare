@@ -7,11 +7,15 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+**Ana Luiza**
+Idade:35 anos
+Ocupação: Advogado
+Aplicativos: Instagram, Pinterest,Twitter.
+Motivações:Ana Luiza é uma profissional dedicada que se esforça para alcançar seus objetivos na carreira. Ela valoriza muito sua saúde e bem-estar, pois sabe que são essenciais para sua produtividade e sucesso profissional. 
+Frustrações: Ana Luiza tem dificuldade em encontrar tempo para cuidar de sua saúde devido à carga de trabalho pesada e ao estresse constante da profissão. Ela também se sente sobrecarregada com as responsabilidades domésticas e muitas vezes negligencia seus próprios cuidados. 
+Hobbys:Ana Luiza adora praticar yoga nas horas vagas para aliviar o estresse e relaxar. Ela também gosta de ler livros de ficção e passar tempo com sua família e amigos.
 
-|Ana Luiza| Aplicativos| Motivações| Frustrações|Hobby|
-|Idade:35 anos|Instagram|Ana Luiza é uma profissional dedicada que se esforça para alcançar seus objetivos na carreira.Ela valoriza muito sua saúde e bem-estar, pois sabe que são essenciais para sua produtividade e sucesso profissional.|Ana Luiza tem dificuldade em encontrar tempo para cuidar de sua saúde devido á carga de trabalho pesada e ao estresse constante da profissão. Ela também se sente sobrecarregada com as responsabilidades domésticas e muitas vezes negligencia seus próprios cuidados.|Ana Luiza adora praticar yoga nas horas vagas para aliviar o estresse e relaxar. Ela também gosta de ler livros de ficção e passar tempo com sua família e amigos.|
-|Ocupação:Advogado|Pinterest|
-                  |Twitter|
+
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
