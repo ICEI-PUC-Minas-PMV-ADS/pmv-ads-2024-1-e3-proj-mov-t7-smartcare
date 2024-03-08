@@ -31,18 +31,11 @@ Criação de uma rede de contatos de emergência, garantindo acesso rápido aos 
 Ao abordar esses aspectos o SmartCare busca oferecer uma solução completa e eficaz para os desafios enfrentados no cuidado da saúde pessoal, promovendo assim uma maior qualidade de vida e bem-estar para seus usuários. 
 
 ## Justificativa
-
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Na busca por uma gestão mais eficaz da saúde pessoal, surge a necessidade de uma aplicação integrada que unifique funcionalidades, como lembretes de medicamentos e acompanhamento de consultas. O SmartCare propõe-se a preencher essa lacuna, oferecendo aos usuários uma plataforma centralizada e intuitiva para gerenciar os principais aspectos da saúde, visando simplificar e otimizar o cuidado médico individual e promover uma maior qualidade de vida e bem-estar geral. 
 
 ## Público-Alvo
+O SmartCare tem como público-alvo idosos, pessoas com comorbidades, cuidadores familiares e qualquer pessoa que busque uma ferramenta intuitiva e abrangente para gerenciar sua saúde pessoal. 
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
