@@ -10,25 +10,25 @@ De acordo com Nakata (2014), os medicamentos modernos assumem o protagonismo nos
 Conforme o texto [REF 2], os apps de saúde são aliados importantes para o controle e captação de dados e acesso a informações sobre a saúde. O uso de apps se tornou indispensável nas mais diversas áreas da rotina humana, inclusive na saúde, diversos apps sugerem melhorar até mesmo a gestão de consultórios e de pacientes, conforme discutido em [REF 3].
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Atualmente, muitos indivíduos encontram dificuldades para acompanhar de forma organizada e precisa aspectos essenciais de sua saúde, como abordado em em [REF 4] o cuidado com a falta de tempo pode ser fator determinante para uma boa qualidade de vida.  
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Diversos aspectos da saúdem podem ser prejudicados devido a rotina e as tarefas diárias como por exemplo, a administração de medicamentos em prazos e horários corretos, o agendamento e comparecimento a consultas médicas, o armazenamento e consulta a resultados de exames e também informações de contato de emergência. A ausência de uma ferramenta integrada, intuitiva e dedicada para esse fim resulta em desafios de adesão ao tratamento, dificuldade em manter registros precisos e a possibilidade de esquecimentos que podem comprometer a saúde e o bem-estar do usuário. Além disso, o ritmo acelerado da vida moderna torna ainda mais desafiador dedicar tempo e esforço à gestão adequada da saúde. Essas lacunas no acompanhamento da saúde pessoal destacam a necessidade de uma solução como o SmartCare, que ofereça uma abordagem inteligente e eficaz baseada em heurísticas e UI/UX para simplificar e otimizar o cuidado de saúde individual através do app. 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+Com o intuito de solucionar os desafios mencionados, o presente projeto tem como objetivo principal desenvolver o aplicativo SmartCare, um app dedicado ao gerenciamento integrado da saúde pessoal. O foco central desta iniciativa é oferecer uma ferramenta abrangente e acessível que simplifique e aprimore o acompanhamento de aspectos fundamentais da saúde. Por meio do SmartCare, os objetivos específicos se direcionam a fornecer suporte essencial aos usuários em áreas cruciais para uma saúde otimizada, incluindo: 
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Registro e gerenciamento de medicamentos, doses e horários, com lembretes personalizados para assegurar a adesão ao tratamento. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Organização e acompanhamento de consultas médicas, proporcionando uma visão clara do histórico médico e facilitando o agendamento futuro de compromissos, assim também como lembretes de consultas agendadas. 
+
+Registro de resultados de exames, permitindo aos usuários registrar e acompanhar de forma sistemática os resultados de testes e análises. 
+
+Gestão do estoque de medicamentos, com alertas inteligentes para reposição quando necessário, evitando interrupções no tratamento devido à falta de medicamentos. 
+
+Criação de uma rede de contatos de emergência, garantindo acesso rápido aos contatos em situações de emergência médica. 
+
+Ao abordar esses aspectos o SmartCare busca oferecer uma solução completa e eficaz para os desafios enfrentados no cuidado da saúde pessoal, promovendo assim uma maior qualidade de vida e bem-estar para seus usuários. 
 
 ## Justificativa
 
