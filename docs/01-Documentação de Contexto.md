@@ -3,7 +3,7 @@ Atualmente, lidar com uma quantidade crescente de tarefas do dia a dia dificulta
 
 Como proposta de solução para tais desafios, o presente trabalho propõe a criação do SmartCare um aplicativo móvel projetado para simplificar o gerenciamento dos cuidados médicos pessoais. Para tal, incorpora um conjunto de funcionalidades baseadas em conceitos e heurísticas de UI/UX que visam simplificar sua operação e facilitar a experiência do usuário na gestão dos diferentes aspectos pessoais de saúde citados.  
 
-#Contexto
+##Contexto
 De acordo com Nakata (2014), os medicamentos modernos assumem o protagonismo nos tratamentos contemporâneos e apesar de todos os benefícios, os mesmos podem trazer riscos à saúde dos pacientes em casos de consumo errado, indiscriminado ou excessivo, acentuando-se tal preocupação para medicamentos antibióticos. Devido a isso, o acompanhamento médico profissional se faz de extrema importância para que o paciente seja corretamente orientado quanto às doses e tempo necessário para o tratamento. 
 
 Conforme o texto [REF 2], os apps de saúde são aliados importantes para o controle e captação de dados e acesso a informações sobre a saúde. O uso de apps se tornou indispensável nas mais diversas áreas da rotina humana, inclusive na saúde, diversos apps sugerem melhorar até mesmo a gestão de consultórios e de pacientes, conforme discutido em [REF 3].
