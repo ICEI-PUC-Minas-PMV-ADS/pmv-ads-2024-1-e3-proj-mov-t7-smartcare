@@ -1,6 +1,8 @@
 # Introdução
+Atualmente, lidar com uma quantidade crescente de tarefas do dia a dia dificulta o acompanhamento dos cuidados pessoais de saúde. Conforme o texto disponível em [REF 1], acessado em 18/02/2024, a falta de tempo é um dos principais fatores que prejudicam os cuidados com a saúde em seus diferentes aspectos como: falta de tempo para ir a consultas ou fazer exames, esquecimento de compromissos, prazos e horários para administração de medicamentos, ou ainda o esquecimento de contatos de emergência em situações importantes. Tais problemas podem ser ainda piores para pessoas que apresentam comorbidades graves ou que precisam ter um acompanhamento médico mais dedicado. 
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Como proposta de solução para tais desafios, o presente trabalho propõe a criação do SmartCare um aplicativo móvel projetado para simplificar o gerenciamento dos cuidados médicos pessoais. Para tal, incorpora um conjunto de funcionalidades baseadas em conceitos e heurísticas de UI/UX que visam simplificar sua operação e facilitar a experiência do usuário na gestão dos diferentes aspectos pessoais de saúde citados.  
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
