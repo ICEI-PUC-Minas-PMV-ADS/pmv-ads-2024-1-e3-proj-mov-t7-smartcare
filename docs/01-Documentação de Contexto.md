@@ -30,7 +30,7 @@ Conforme Conexa (2021), os apps de saúde são aliados importantes para o contro
 
 <div align="justify">
   
-Atualmente, muitos indivíduos encontram dificuldades para acompanhar de forma organizada e precisa aspectos essenciais de sua saúde, como abordado em em [REF 4] o cuidado com a falta de tempo pode ser fator determinante para uma boa qualidade de vida.  
+Atualmente, muitos indivíduos encontram dificuldades para acompanhar de forma organizada e precisa aspectos essenciais de sua saúde, como abordado em Saúde Business (2017) o cuidado com a falta de tempo pode ser fator determinante para uma boa qualidade de vida.  
 
 </div>
 
