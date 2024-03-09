@@ -14,14 +14,31 @@ Como proposta de solução para tais desafios, o presente trabalho propõe a cri
 
 # Contexto
 
+<div align="justify">
+  
 De acordo com Nakata (2014), os medicamentos modernos assumem o protagonismo nos tratamentos contemporâneos e apesar de todos os benefícios, os mesmos podem trazer riscos à saúde dos pacientes em casos de consumo errado, indiscriminado ou excessivo, acentuando-se tal preocupação para medicamentos antibióticos. Devido a isso, o acompanhamento médico profissional se faz de extrema importância para que o paciente seja corretamente orientado quanto às doses e tempo necessário para o tratamento. 
 
+</div>
+
+<div align="justify">
+  
 Conforme o texto [REF 2], os apps de saúde são aliados importantes para o controle e captação de dados e acesso a informações sobre a saúde. O uso de apps se tornou indispensável nas mais diversas áreas da rotina humana, inclusive na saúde, diversos apps sugerem melhorar até mesmo a gestão de consultórios e de pacientes, conforme discutido em [REF 3].
 
+</div>
+
 ## Problema
+
+<div align="justify">
+  
 Atualmente, muitos indivíduos encontram dificuldades para acompanhar de forma organizada e precisa aspectos essenciais de sua saúde, como abordado em em [REF 4] o cuidado com a falta de tempo pode ser fator determinante para uma boa qualidade de vida.  
 
+</div>
+
+<div align="justify">
+  
 Diversos aspectos da saúdem podem ser prejudicados devido a rotina e as tarefas diárias como por exemplo, a administração de medicamentos em prazos e horários corretos, o agendamento e comparecimento a consultas médicas, o armazenamento e consulta a resultados de exames e também informações de contato de emergência. A ausência de uma ferramenta integrada, intuitiva e dedicada para esse fim resulta em desafios de adesão ao tratamento, dificuldade em manter registros precisos e a possibilidade de esquecimentos que podem comprometer a saúde e o bem-estar do usuário. Além disso, o ritmo acelerado da vida moderna torna ainda mais desafiador dedicar tempo e esforço à gestão adequada da saúde. Essas lacunas no acompanhamento da saúde pessoal destacam a necessidade de uma solução como o SmartCare, que ofereça uma abordagem inteligente e eficaz baseada em heurísticas e UI/UX para simplificar e otimizar o cuidado de saúde individual através do app. 
+
+</div>
 
 
 ## Objetivos
