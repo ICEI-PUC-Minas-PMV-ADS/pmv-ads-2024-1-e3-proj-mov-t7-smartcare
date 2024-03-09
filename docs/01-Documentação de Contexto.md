@@ -66,11 +66,21 @@ Ao abordar esses aspectos o SmartCare busca oferecer uma solução completa e ef
 </div>
 
 ## Justificativa
-Na busca por uma gestão mais eficaz da saúde pessoal, surge a necessidade de uma aplicação integrada que unifique funcionalidades, como lembretes de medicamentos e acompanhamento de consultas. O SmartCare propõe-se a preencher essa lacuna, oferecendo aos usuários uma plataforma centralizada e intuitiva para gerenciar os principais aspectos da saúde, visando simplificar e otimizar o cuidado médico individual e promover uma maior qualidade de vida e bem-estar geral. 
+
+<div align="justify">
+  
+Na busca por uma gestão mais eficaz da saúde pessoal, surge a necessidade de uma aplicação integrada que unifique funcionalidades, como lembretes de medicamentos e acompanhamento de consultas. O SmartCare propõe-se a preencher essa lacuna, oferecendo aos usuários uma plataforma centralizada e intuitiva para gerenciar os principais aspectos da saúde, visando simplificar e otimizar o cuidado médico individual e promover uma maior qualidade de vida e bem-estar geral.
+
+</div>
 
 ## Público-Alvo
+
+<div align="justify">
+  
 O SmartCare tem como público-alvo idosos, pessoas com comorbidades, cuidadores familiares e qualquer pessoa que busque uma ferramenta intuitiva e abrangente para gerenciar sua saúde pessoal. 
 
+</div>
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+
+
 
