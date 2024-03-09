@@ -272,18 +272,13 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ### Custos do projeto: SmartCare 
 
-Os custos fixos do projeto estão distribuídos sobre a mão de obra dos desenvolvedores, sobre os custos de alocar o projeto na nuvem e sobre as assinaturas das plataformas de publicação de apps. 
-Os custos fixos da equipe, foram calculados sobre o valor de horas trabalhas, que teve uma estimativa de aproximadamente 1200 horas de trabalho para desenvolver o app. 
-Assim o custo bruto do desenvolvimento do projeto ficou estipulado em aproximadamente R$: 130.200,00 Reais em um período de 5 meses de trabalho.  
+A estrutura de custos do projeto SmartCare é composta por custos fixos distribuídos em três áreas principais: mão de obra dos desenvolvedores, custos de alocação na nuvem e assinaturas das plataformas de publicação de aplicativos. Os custos fixos da equipe foram calculados com base em uma estimativa de 1200 horas de trabalho necessárias para desenvolver o aplicativo. Esse cálculo resultou em um custo bruto de desenvolvimento de aproximadamente R$ 130.200,00, durante um período de 5 meses de trabalho.
 
-### Publicação de APP nas plataformas de distribuição APP Store/ Play Store 
+Além disso, para publicar o aplicativo nas plataformas de distribuição App Store e Play Store, são necessários pagamentos de taxas anuais. Na App Store, a taxa anual do Apple Developer Program é de US$ 99, enquanto a do Apple Developer Enterprise Program é de US$ 299. Na Play Store, o custo anual é de R$ 89,90.
 
-Para publicação de aplicativos na Apple (App Store), tem o pagamento de algumas taxas anuais: A taxa anual do Apple Developer Program é de US$ 99 Dólares e a taxa anual do Apple Developer Enterprise Program é de US$ 299 Dólares. Já a Play Store tem um custo Anual de R$: 89,90 por ano. 
+Por fim, para garantir uma margem de lucro sustentável e competitiva no mercado, será aplicada uma margem de 15% sobre o valor total do projeto. Essa margem é considerada razoável e adequada para cobrir custos indiretos, riscos e garantir uma compensação justa para a equipe de desenvolvimento, além de proporcionar sustentabilidade financeira ao projeto.
 
-### Preço final do projeto  
-
-Finalizando os custos fixos, atribuiremos a margem de lucro em cima do valor total do projeto que vai ser de 15%, que é um valor razoável dentro do mercado.
-
+Em resumo, a estrutura de custos apresentada reflete uma abordagem abrangente e justificada para o desenvolvimento e publicação do projeto SmartCare, levando em consideração tanto os custos fixos diretos quanto as taxas associadas à publicação do aplicativo.
 ![Custo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/709a4223-b93e-4530-8ead-0c3e12e28458)
 
 
