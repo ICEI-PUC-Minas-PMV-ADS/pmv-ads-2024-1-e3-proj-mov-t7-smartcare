@@ -259,7 +259,7 @@ O diagrama abaixo contém o tempo para desenvolvimento e as atividades correspon
 ![Gerenciamento de Tempo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/eb57edae-4fb3-4088-98b9-5cc402fcc526)
 
 
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
+O Gráfico de Gantt, ou diagrama de Gantt, é uma ferramenta visual fundamental para supervisionar e administrar o cronograma de atividades de um projeto. Através dele, torna-se viável compilar uma abrangente lista de ações necessárias para a implementação do projeto, estruturando-as em atividades distintas e estimando o tempo necessário para sua realização.
 
 ![Cronograma e Gantt](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/a63328ca-2ef0-4fff-96cc-11f458e28cea)
 ## Gerenciamento de Equipe
