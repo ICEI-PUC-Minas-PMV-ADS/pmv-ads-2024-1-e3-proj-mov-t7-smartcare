@@ -281,7 +281,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-![dDiag](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/f3c0c662-7933-4ed3-9725-4bf04fa6e99c)
+
+![Diag](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/601f0af2-a5a7-4cc2-83ad-93a25eeaba31)
 
 
 
