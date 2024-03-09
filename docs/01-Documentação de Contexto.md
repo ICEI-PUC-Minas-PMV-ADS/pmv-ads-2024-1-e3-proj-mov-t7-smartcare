@@ -2,7 +2,7 @@
 
 <div align="justify">
   
-Atualmente, lidar com uma quantidade crescente de tarefas do dia a dia dificulta o acompanhamento dos cuidados pessoais de saúde. Conforme o texto disponível em [REF 1], acessado em 18/02/2024, a falta de tempo é um dos principais fatores que prejudicam os cuidados com a saúde em seus diferentes aspectos como: falta de tempo para ir a consultas ou fazer exames, esquecimento de compromissos, prazos e horários para administração de medicamentos, ou ainda o esquecimento de contatos de emergência em situações importantes. Tais problemas podem ser ainda piores para pessoas que apresentam comorbidades graves ou que precisam ter um acompanhamento médico mais dedicado. 
+Atualmente, lidar com uma quantidade crescente de tarefas do dia a dia dificulta o acompanhamento dos cuidados pessoais de saúde. Conforme Navarro (2024), a falta de tempo é um dos principais fatores que prejudicam os cuidados com a saúde em seus diferentes aspectos como: falta de tempo para ir a consultas ou fazer exames, esquecimento de compromissos, prazos e horários para administração de medicamentos, ou ainda o esquecimento de contatos de emergência em situações importantes. Tais problemas podem ser ainda piores para pessoas que apresentam comorbidades graves ou que precisam ter um acompanhamento médico mais dedicado. 
 
 </div>
 
