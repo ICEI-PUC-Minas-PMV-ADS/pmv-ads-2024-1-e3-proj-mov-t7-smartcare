@@ -112,7 +112,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 <div align="justify">
 
-Atualmente, existem diversos apps que procuram resolver de alguma forma os problemas que o SmartCare procura resolver, no entanto a quantidade de apps é elevada e nenhum aborda o problema da perspectiva que o SmartCare abordará.
+Atualmente, existem diversos apps que procuram resolver de alguma forma os problemas que o SmartCare procura resolver, no entanto, a quantidade de apps é elevada e nenhum aborda o problema da perspectiva que o SmartCare abordará.
 
 <div>
 
