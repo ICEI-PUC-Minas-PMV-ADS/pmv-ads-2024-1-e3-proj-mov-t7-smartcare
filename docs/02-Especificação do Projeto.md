@@ -7,7 +7,7 @@
 
 <div align="justify">
 
-Nessa seção serão apresentados os principais aspectos do projeto são eles:
+Nessa seção serão apresentados os principais aspectos do projeto na seguinte sequência:
 
 </div>
 
