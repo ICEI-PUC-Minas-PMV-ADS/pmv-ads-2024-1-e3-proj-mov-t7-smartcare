@@ -162,7 +162,7 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-003|O sistema deve permitir que os usuários registrem, editem, consultem e excluam (CRUD) contatos de emergência, incluindo informações como: Nome, número de contato, endereço do contato.| ALTA|
 |RF-004|O sistema deve permitir o cadastro, consulta, atualização e exclusão (CRUD) de exames médicos, incluindo informações como: Nome do exame, Recomendação médica(documento), Local do exame, data e horários para realização, status (realizado, ou a fazer). No caso de exames já realizado deve ser possível a anexação de documentos como laudos, resultados, imagens, vídeos, dentre outras formas de Mídias de exames.|ALTA|
 |RF-005|O sistema deve permitir que novos usuários se cadastrem na plataforma, incluindo informações como: Nome, data de nascimento, e-mail e telefone celular.|ALTA|
-|RF-006|O sistema deve permitir que usuários consultem, editem ou excluam suas informações.|ALTA|
+|RF-006|O sistema deve permitir que usuários consultem, editem ou excluam suas informações de perfil.|ALTA|
 |RF-007|Permitir que os usuários registrem a quantidade atual de cada medicamento em estoque.|ALTA|
 |RF-008|Permitir que os usuários cadastrem informações de contatos de emergência, incluindo nome, relação e número de telefone.|ALTA|
 |RF-009|Permitir que os usuários cadastrem novos medicamentos, incluindo nome, dosagem, forma de administração e frequência de uso.|ALTA|
