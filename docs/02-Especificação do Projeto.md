@@ -22,6 +22,16 @@ Nessa seção serão apresentados os principais aspectos do projeto na seguinte 
 - Indicadores de desempenho;
 
 - Requisitos do projeto;
+  
+- Diagrama de casos de uso;
+
+- Matriz de rastreabilidade;
+
+- Gestão de tempo;
+
+- Gestão da equipe;
+
+- Gestão de orçamento
 
 ## Personas
 **Ana Luiza**
