@@ -264,7 +264,7 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 ![Cronograma e Gantt](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/a63328ca-2ef0-4fff-96cc-11f458e28cea)
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+O aprimorado gerenciamento de tarefas não apenas impulsionará a produtividade do projeto, mas também se revela essencial para a consecução de metas excepcionais. Assim, é imperativo implementar uma gestão holística, englobando tanto as tarefas quanto a dinâmica interpessoal, a fim de promover uma coordenação eficaz das equipes envolvidas. Essa abordagem integrada não só facilita o controle operacional, mas também fomenta um ambiente colaborativo que potencializa a sinergia entre os membros, resultando em níveis superiores de eficiência e sucesso para o projeto.
 
 ![Gerenciamento de Equipe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/ddf26c87-374a-4f3a-ac5b-2ad06b90374f)
 
