@@ -132,7 +132,7 @@ Existem inúmeras melhorias que poderão ser desenvolvidas ao longo da vida úti
 
 
   
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Cadastro e Login
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
