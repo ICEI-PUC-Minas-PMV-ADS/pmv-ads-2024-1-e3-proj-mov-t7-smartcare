@@ -16,7 +16,7 @@ Como proposta de solução para tais desafios, o presente trabalho propõe a cri
 
 <div align="justify">
   
-De acordo com Nakata (2014), os medicamentos modernos assumem o protagonismo nos tratamentos contemporâneos e apesar de todos os benefícios, os mesmos podem trazer riscos à saúde dos pacientes em casos de consumo errado, indiscriminado ou excessivo, acentuando-se tal preocupação para medicamentos antibióticos. Devido a isso, o acompanhamento médico profissional se faz de extrema importância para que o paciente seja corretamente orientado quanto às doses e tempo necessário para o tratamento. 
+Para Nakata (2014), os medicamentos modernos assumem o protagonismo nos tratamentos contemporâneos e apesar de todos os benefícios, os mesmos podem trazer riscos à saúde dos pacientes em casos de consumo errado, indiscriminado ou excessivo, acentuando-se tal preocupação para medicamentos antibióticos. Devido a isso, o acompanhamento médico profissional se faz de extrema importância para que o paciente seja corretamente orientado quanto às doses e tempo necessário para o tratamento. 
 
 </div>
 
