@@ -279,6 +279,7 @@ Além disso, para publicar o aplicativo nas plataformas de distribuição App St
 Por fim, para garantir uma margem de lucro sustentável e competitiva no mercado, será aplicada uma margem de 15% sobre o valor total do projeto. Essa margem é considerada razoável e adequada para cobrir custos indiretos, riscos e garantir uma compensação justa para a equipe de desenvolvimento, além de proporcionar sustentabilidade financeira ao projeto.
 
 Em resumo, a estrutura de custos apresentada reflete uma abordagem abrangente e justificada para o desenvolvimento e publicação do projeto SmartCare, levando em consideração tanto os custos fixos diretos quanto as taxas associadas à publicação do aplicativo.
+
 ![Custo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/709a4223-b93e-4530-8ead-0c3e12e28458)
 
 
