@@ -215,8 +215,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+<div align="justify">
+  
+Identificados os módulos do sistema e seus principais aspectos, abaixo a matriz de rastreabilidade relaciona os principais aspectos do sistema:
 
+</div>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/19398297/2e211db4-3309-4ace-adac-244b9448071c)
 
