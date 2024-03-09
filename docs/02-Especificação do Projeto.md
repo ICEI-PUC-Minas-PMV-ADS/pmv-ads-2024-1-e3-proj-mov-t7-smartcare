@@ -203,11 +203,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |RG-09|**Atualizações e manutenção:** Implementar um sistema eficaz de atualizações para corrigir falhas de segurança, melhorar o desempenho e adicionar novos recursos. Certificar-se de que as atualizações sejam fáceis de realizar para os usuários e que a aplicação continue funcionando corretamente após cada atualização. | BAIXA |        |
 |RG-10|**Compatibilidade com Versões Anteriores:** Assegurar que o SmartCare seja compatível com versões mais antigas da aplicação, sempre que possível. Isso permite que os usuários que não atualizaram imediatamente possam continuar utilizando a aplicação sem problemas, garantindo uma transição suave entre versões e evitando possíveis interrupções no serviço. | BAIXA |        |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
