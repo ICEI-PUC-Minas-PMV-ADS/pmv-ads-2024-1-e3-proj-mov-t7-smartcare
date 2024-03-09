@@ -22,7 +22,7 @@ Para Nakata (2014), os medicamentos modernos assumem o protagonismo nos tratamen
 
 <div align="justify">
   
-Conforme Conexa (2021), os apps de saúde são aliados importantes para o controle e captação de dados e acesso a informações sobre a saúde. O uso de apps se tornou indispensável nas mais diversas áreas da rotina humana, inclusive na saúde, diversos apps sugerem melhorar até mesmo a gestão de consultórios e de pacientes, conforme discutido em [REF 3].
+Conforme Conexa (2021), os apps de saúde são aliados importantes para o controle e captação de dados e acesso a informações sobre a saúde. O uso de apps se tornou indispensável nas mais diversas áreas da rotina humana, inclusive na saúde, diversos apps sugerem melhorar até mesmo a gestão de consultórios e de pacientes, conforme discutido em < https://www.meuconsultorio.com/blog/aplicativos-medicos-como-o-smartphone-ajuda-a-organizar-a-rotina >.
 
 </div>
 
