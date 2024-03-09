@@ -178,8 +178,11 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001|A interface do usuário do aplicativo deve ser intuitiva e fácil de usar, com elementos de design claros e instruções simples para garantir que os usuários possam navegar e interagir com o aplicativo sem dificuldade. |ALTA| 
+|RNF-002| O aplicativo deve estar disponível e operacional a maior parte do tempo, com tempo de inatividade planejado mantido ao mínimo para garantir o acesso dos usuários quando necessário.|ALTA| 
+|RNF-003|Deve-se garantir a segurança e privacidade dos usuários.|ALTA|
+|RNF-004|Deve-se garantir um login seguro.|ALTA|
+|RNF-005|O aplicativo deve ser otimizado para consumir uma quantidade mínima de memória e espaço de armazenamento no dispositivo do usuário, garantindo um desempenho eficiente.|MÉDIA|
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
