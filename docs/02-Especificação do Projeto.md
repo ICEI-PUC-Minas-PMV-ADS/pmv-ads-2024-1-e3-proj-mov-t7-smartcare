@@ -38,49 +38,31 @@ Nessa seção serão apresentados os principais aspectos do projeto na seguinte 
 |------------------------------|------------|-----------------------|
 | ![Ana Luiza](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/blob/main/docs/img/personasAnaLuiza.png?raw=true) | **Idade:** 35 anos | **Ocupação:** Advogada |
 | **Aplicativos:**             | **Motivações:** Ana Luiza é uma profissional dedicada que se esforça para alcançar seus objetivos na carreira. Ela valoriza muito sua saúde e bem-estar, pois sabe que são essenciais para sua produtividade e sucesso profissional. | **Frustrações:** Ana Luiza tem dificuldade em encontrar tempo para cuidar de sua saúde devido à carga de trabalho pesada e ao estresse constante da profissão. Ela também se sente sobrecarregada com as responsabilidades domésticas e muitas vezes negligencia seus próprios cuidados. |
-
-|                              |            |                       |
-|------------------------------|------------|-----------------------|
-| **Aplicativos:**             | - Instagram | - Pinterest           |
-|                              | - Twitter  |                       |
-| **Atividades de Lazer:**     | Ana Luiza adora praticar yoga nas horas vagas para aliviar o estresse e relaxar. Ela também gosta de ler livros de ficção e passar tempo com sua família e amigos. |                       |
-
-
-|                               |               |                          |
-|-------------------------------|---------------|--------------------------|
+                    |
+|                               |                               |                               |
+|-------------------------------|-------------------------------|-------------------------------|
 | ![Marcos Silva](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/blob/main/docs/img/personasMarcosSilva.png?raw=true) | **Idade:** 50 anos | **Ocupação:** Empresário |
-| **Aplicativos:**              | **Motivação:** Marcos é um empreendedor ambicioso que está sempre em busca de novos desafios e oportunidades de negócios. Ele valoriza muito sua saúde e bem-estar, pois sabe que são fundamentais para sua capacidade de liderança e tomada de decisões. | **Frustrações:** Marcos tem dificuldade em manter uma rotina saudável devido ao ritmo acelerado de trabalho e às viagens frequentes. Ele também enfrenta problemas de estresse e ansiedade devido às pressões do mundo dos negócios. |
+| **Aplicativos:** Facebook     | **Motivação:** Marcos é um empreendedor ambicioso que está sempre em busca de novos desafios e oportunidades de negócios. Ele valoriza muito sua saúde e bem-estar, pois sabe que são fundamentais para sua capacidade de liderança e tomada de decisões. | **Frustrações:** Marcos tem dificuldade em manter uma rotina saudável devido ao ritmo acelerado de trabalho e às viagens frequentes. Ele também enfrenta problemas de estresse e ansiedade devido às pressões do mundo dos negócios. |
+|                               | **Aplicativos:** Linkedin    |                               |
+|                               | **Aplicativos:** Youtube     |                               |
+|                               | **Hobbies:** Marcos gosta de praticar esportes ao ar livre, como corrida e ciclismo, para manter-se ativo e aliviar o estresse do trabalho. Ele também aprecia passar tempo com sua família e viajar para destinos relaxantes nas férias. |                               |
 
-|                               |               |                          |
-|-------------------------------|---------------|--------------------------|
-| **Aplicativos:**              | - Facebook    | - Linkedin               |
-|                               | - Youtube     |                          |
-| **Hobbies:**                  | Marcos gosta de praticar esportes ao ar livre, como corrida e ciclismo, para manter-se ativo e aliviar o estresse do trabalho. Ele também aprecia passar tempo com sua família e viajar para destinos relaxantes nas férias. |                          |
-
-
-|                                |               |                          |
-|--------------------------------|---------------|--------------------------|
+|                               |                               |                               |
+|-------------------------------|-------------------------------|-------------------------------|
 | ![Fernanda Soares](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/blob/main/docs/img/personasFernandaSoares.png?raw=true) | **Idade:** 28 anos | **Ocupação:** Professora |
-| **Aplicativos:**               | **Motivações:** Fernanda é uma educadora dedicada que se preocupa com o bem-estar de seus alunos. Mãe de uma criança de 3 anos, ela valoriza muito sua saúde e bem-estar, pois sabe que são essenciais para sua energia e disposição no trabalho. | **Frustrações:** Fernanda enfrenta dificuldades em manter uma rotina saudável devido ao estresse e às longas horas de trabalho. Além disso, ela lida com problemas, como ansiedade devido às pressões da profissão. A preocupação constante com o equilíbrio entre o trabalho e a vida familiar também pode ser desgastante para ela. |
-
-|                                |               |                          |
-|--------------------------------|---------------|--------------------------|
-| **Aplicativos:**               | - Instagram   | - Pinterest              |
-|                                | - Youtube     |                          |
-| **Hobbies:**                   | Fernanda gosta de praticar ioga e meditação para aliviar o estresse e relaxar. Ela também adora ler e escrever poesia como forma de expressão artística. |                          |
+| **Aplicativos:** Instagram   | **Motivações:** Fernanda é uma educadora dedicada que se preocupa com o bem-estar de seus alunos. Mãe de uma criança de 3 anos, ela valoriza muito sua saúde e bem-estar, pois sabe que são essenciais para sua energia e disposição no trabalho. | **Frustrações:** Fernanda enfrenta dificuldades em manter uma rotina saudável devido ao estresse e às longas horas de trabalho. Além disso, ela lida com problemas, como ansiedade devido às pressões da profissão. A preocupação constante com o equilíbrio entre o trabalho e a vida familiar também pode ser desgastante para ela. |
+|                               | **Aplicativos:** Pinterest   |                               |
+|                               | **Aplicativos:** Youtube     |                               |
+|                               | **Hobbies:** Fernanda gosta de praticar ioga e meditação para aliviar o estresse e relaxar. Ela também adora ler e escrever poesia como forma de expressão artística. |                               |
 
 
-
-|                               |               |                          |
-|-------------------------------|---------------|--------------------------|
+|                               |                               |                               |
+|-------------------------------|-------------------------------|-------------------------------|
 | ![Pedro Oliveira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/blob/main/docs/img/personasPedroOliveira.png?raw=true) | **Idade:** 60 anos | **Ocupação:** Aposentado |
-| **Aplicativos:**              | **Motivação:** Pedro é um aposentado que valoriza muito sua saúde e bem-estar. Ele gosta de aproveitar a vida ao máximo e se mantém ativo física e socialmente. | **Frustrações:** Pedro enfrenta problemas de saúde crônicos, como hipertensão e diabetes, que exigem cuidados constantes. |
-
-|                               |               |                          |
-|-------------------------------|---------------|--------------------------|
-| **Aplicativos:**              | - WhatsApp    | - Facebook               |
-|                               |               |                          |
-| **Hobbies:**                  | Pedro gosta de ler e viajar nas horas vagas. Ele também é apaixonado por jardinagem e passa muito tempo cuidando de seu jardim. |                          |
+| **Aplicativos:** WhatsApp    | **Motivação:** Pedro é um aposentado que valoriza muito sua saúde e bem-estar. Ele gosta de aproveitar a vida ao máximo e se mantém ativo física e socialmente. | **Frustrações:** Pedro enfrenta problemas de saúde crônicos, como hipertensão e diabetes, que exigem cuidados constantes. |
+|                               | **Aplicativos:** Facebook    |                               |
+|                               |                               |                               |
+|                               | **Hobbies:** Pedro enfrenta problemas de saúde crônicos, como hipertensão e diabetes, que exigem cuidados constantes. |                               |
 
 
 
