@@ -110,12 +110,28 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+<div align="justify">
+
+Atualmente, existem diversos apps que procuram resolver de alguma forma os problemas que o SmartCare procura resolver, no entanto a quantidade de apps é elevada e nenhum aborda o problema da perspectiva que o SmartCare abordará.
+
+<div>
 
 ### Descrição Geral da Proposta
 
 Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
 
+<div align="justify">
+  
+Existem inúmeras melhorias que poderão ser desenvolvidas ao longo da vida útil do Aplicativo aqui proposto como: melhorias de interface, melhorias de funcionalidades, melhoria de desempenho, implementação de novas funcionalidades, dentre outras.
+
+<div>
+
+<div align="justify">
+  
+A proposta é elaborar um aplicativo chamado SmartCare que centralize as principais funcionalidade de gerenciamento de aspectos da saúde dos usuários, focando na experiência do usuário de forma a facilitar sua operação e manuseio.
+
+<div>
+  
 ### Processo 1 – NOME DO PROCESSO
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
@@ -250,7 +266,7 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
-![Gerenciamento de Equipe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/ddf26c87-374a-4f3a-ac5b-2ad06b90374f)
+![Simple Project Timeline](img/02-project-timeline.png)
 
 ## Gestão de Orçamento
 
