@@ -138,7 +138,11 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em segu
 
 ![Modelo de Processos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/63b156df-21a9-4b4d-a256-87a73fa480cd)
 
-
+ Possíveis melhorias:
+- Implementar uma página de recuperação de senha;
+- Implementar recuperação de senha via e-mail;
+- Implementar verificação em duas etapas para maior segurança;
+- 
 ## Indicadores de Desempenho
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
@@ -274,7 +278,7 @@ O aprimorado gerenciamento de tarefas não apenas impulsionará a produtividade 
 
 A estrutura de custos do projeto SmartCare é composta por custos fixos distribuídos em três áreas principais: mão de obra dos desenvolvedores, custos de alocação na nuvem e assinaturas das plataformas de publicação de aplicativos. Os custos fixos da equipe foram calculados com base em uma estimativa de 1200 horas de trabalho necessárias para desenvolver o aplicativo. Esse cálculo resultou em um custo bruto de desenvolvimento de aproximadamente R$ 130.200,00, durante um período de 5 meses de trabalho.
 
-Além disso, para publicar o aplicativo nas plataformas de distribuição App Store e Play Store, são necessários pagamentos de taxas anuais. Na App Store, a taxa anual do Apple Developer Program é de US$ 199, enquanto a do Apple Developer Enterprise Program é de US$ 300. Na Play Store, o custo anual é de R$ 89,90.
+Além disso, para publicar o aplicativo nas plataformas de distribuição App Store e Play Store, são necessários pagamentos de taxas anuais. Na App Store, a taxa anual do Apple Developer Program é de US$ 99, enquanto a do Apple Developer Enterprise Program é de US$ 299. Na Play Store, o custo anual é de R$ 89,90.
 
 Por fim, para garantir uma margem de lucro sustentável e competitiva no mercado, será aplicada uma margem de 15% sobre o valor total do projeto. Essa margem é considerada razoável e adequada para cobrir custos indiretos, riscos e garantir uma compensação justa para a equipe de desenvolvimento, além de proporcionar sustentabilidade financeira ao projeto.
 
