@@ -9,10 +9,15 @@ Nessa seção serão apresentados os principais aspectos do projeto são eles:
 </div>
 
 -Personas;
+
 -Histórias de usuários;
+
 -Análise da situação atual;
+
 -Descrição geral da proposta;
+
 -Indicadores de desempenho;
+
 -Requisitos do projeto;
 
 ## Personas
