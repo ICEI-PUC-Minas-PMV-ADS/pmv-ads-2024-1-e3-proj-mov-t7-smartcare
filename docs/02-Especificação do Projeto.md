@@ -118,7 +118,11 @@ Atualmente, existem diversos apps que procuram resolver de alguma forma os probl
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+<div align="justify">
+  
+A proposta é elaborar um aplicativo chamado SmartCare que centralize as principais funcionalidade de gerenciamento de aspectos da saúde dos usuários, focando na experiência do usuário de forma a facilitar sua operação e manuseio.
+
+<div>
 
 <div align="justify">
   
@@ -126,11 +130,7 @@ Existem inúmeras melhorias que poderão ser desenvolvidas ao longo da vida úti
 
 <div>
 
-<div align="justify">
-  
-A proposta é elaborar um aplicativo chamado SmartCare que centralize as principais funcionalidade de gerenciamento de aspectos da saúde dos usuários, focando na experiência do usuário de forma a facilitar sua operação e manuseio.
 
-<div>
   
 ### Processo 1 – NOME DO PROCESSO
 
