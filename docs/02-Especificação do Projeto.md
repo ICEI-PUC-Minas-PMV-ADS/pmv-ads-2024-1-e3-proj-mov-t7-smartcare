@@ -35,8 +35,10 @@ Nessa seção serão apresentados os principais aspectos do projeto na seguinte 
 
 ## Personas
 
-| ![Ana Luiza](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/blob/main/docs/img/personasAnaLuiza.png?raw=true) | **Nome:** Ana Luiza  
-**Ocupação:** Advogada  | **Aplicativos:** Instagram, Pinterest, Twitter  | **Motivações:** Ana Luiza é uma profissional dedicada que se esforça para alcançar seus objetivos na carreira. Ela valoriza muito sua saúde e bem-estar, pois sabe que são essenciais para sua produtividade e sucesso profissional.  | **Frustrações:** Ana Luiza tem dificuldade em encontrar tempo para cuidar de sua saúde devido à carga de trabalho pesada e ao estresse constante da profissão. Ela também se sente sobrecarregada com as responsabilidades domésticas e muitas vezes negligencia seus próprios cuidados.  | **Hobbies:** Praticar yoga, ler livros de ficção, passar tempo com família e amigos. |
+| ![Ana Luiza](link_para_imagem_ana_luiza) | **Nome:** Ana Luiza  
+**Idade:** 35 anos  
+**Ocupação:** Advogada  | **Aplicativos:** Instagram, Pinterest, Twitter  | **Motivações:** Ana Luiza é uma profissional dedicada que se esforça para alcançar seus objetivos na carreira. Ela valoriza muito sua saúde e bem-estar, pois sabe que são essenciais para sua produtividade e sucesso profissional.  | **Frustrações:** Ana Luiza tem dificuldade em encontrar tempo para cuidar de sua saúde devido à carga de trabalho pesada e ao estresse constante da profissão. Ela também se sente sobrecarregada com as responsabilidades domésticas e muitas vezes negligencia seus próprios cuidados.  | **Hobbies:** Praticar yoga nas horas vagas para aliviar o estresse e relaxar. Ela também gosta de ler livros de ficção e passar tempo com sua família e amigos.  |
+
 
 
 | ![Marcos Silva](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/blob/main/docs/img/personasMarcosSilva.png?raw=true) | **Nome:** Marcos Silva  
