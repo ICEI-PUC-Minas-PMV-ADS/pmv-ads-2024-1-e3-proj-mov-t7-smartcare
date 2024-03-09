@@ -93,13 +93,8 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
-![Processo 1](img/02-bpmn-proc1.png)
+![Modelo de Processos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/63b156df-21a9-4b4d-a256-87a73fa480cd)
 
-### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
 
 ## Indicadores de Desempenho
 
