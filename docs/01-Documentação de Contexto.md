@@ -6,7 +6,11 @@ Atualmente, lidar com uma quantidade crescente de tarefas do dia a dia dificulta
 
 </div>
 
+<div align="justify">
+  
 Como proposta de solução para tais desafios, o presente trabalho propõe a criação do SmartCare um aplicativo móvel projetado para simplificar o gerenciamento dos cuidados médicos pessoais. Para tal, incorpora um conjunto de funcionalidades baseadas em conceitos e heurísticas de UI/UX que visam simplificar sua operação e facilitar a experiência do usuário na gestão dos diferentes aspectos pessoais de saúde citados.  
+
+</div>
 
 # Contexto
 
