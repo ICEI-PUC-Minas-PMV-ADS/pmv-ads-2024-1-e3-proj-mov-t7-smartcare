@@ -17,6 +17,12 @@ Navarro, Teresa. Saiba como a falta de tempo pode afetar a saúde.Hospital São 
 <div>
 
 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+<div align="justify">
+  
+  MeuConsultório.Aplicativos médicos: como o smartphone ajuda a organizar a rotina?.MeuConsultório, 10/12/2023. Disponível em:
+  <https://www.meuconsultorio.com/blog/aplicativos-medicos-como-o-smartphone-ajuda-a-organizar-a-rotina >. Acessado em 09/03/2024.
+  
+<div>
+
+
+
