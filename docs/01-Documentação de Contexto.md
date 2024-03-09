@@ -42,19 +42,28 @@ Diversos aspectos da saúdem podem ser prejudicados devido a rotina e as tarefas
 
 
 ## Objetivos
+
+<div align="justify">
+  
 Com o intuito de solucionar os desafios mencionados, o presente projeto tem como objetivo principal desenvolver o aplicativo SmartCare, um app dedicado ao gerenciamento integrado da saúde pessoal. O foco central desta iniciativa é oferecer uma ferramenta abrangente e acessível que simplifique e aprimore o acompanhamento de aspectos fundamentais da saúde. Por meio do SmartCare, os objetivos específicos se direcionam a fornecer suporte essencial aos usuários em áreas cruciais para uma saúde otimizada, incluindo: 
 
-Registro e gerenciamento de medicamentos, doses e horários, com lembretes personalizados para assegurar a adesão ao tratamento. 
+</div>
 
-Organização e acompanhamento de consultas médicas, proporcionando uma visão clara do histórico médico e facilitando o agendamento futuro de compromissos, assim também como lembretes de consultas agendadas. 
+- Registro e gerenciamento de medicamentos, doses e horários, com lembretes personalizados para assegurar a adesão ao tratamento. 
 
-Registro de resultados de exames, permitindo aos usuários registrar e acompanhar de forma sistemática os resultados de testes e análises. 
+- Organização e acompanhamento de consultas médicas, proporcionando uma visão clara do histórico médico e facilitando o agendamento futuro de compromissos, assim também como lembretes de consultas agendadas. 
 
-Gestão do estoque de medicamentos, com alertas inteligentes para reposição quando necessário, evitando interrupções no tratamento devido à falta de medicamentos. 
+- Registro de resultados de exames, permitindo aos usuários registrar e acompanhar de forma sistemática os resultados de testes e análises. 
 
-Criação de uma rede de contatos de emergência, garantindo acesso rápido aos contatos em situações de emergência médica. 
+- Gestão do estoque de medicamentos, com alertas inteligentes para reposição quando necessário, evitando interrupções no tratamento devido à falta de medicamentos. 
 
+- Criação de uma rede de contatos de emergência, garantindo acesso rápido aos contatos em situações de emergência médica. 
+
+<div align="justify">
+  
 Ao abordar esses aspectos o SmartCare busca oferecer uma solução completa e eficaz para os desafios enfrentados no cuidado da saúde pessoal, promovendo assim uma maior qualidade de vida e bem-estar para seus usuários. 
+
+</div>
 
 ## Justificativa
 Na busca por uma gestão mais eficaz da saúde pessoal, surge a necessidade de uma aplicação integrada que unifique funcionalidades, como lembretes de medicamentos e acompanhamento de consultas. O SmartCare propõe-se a preencher essa lacuna, oferecendo aos usuários uma plataforma centralizada e intuitiva para gerenciar os principais aspectos da saúde, visando simplificar e otimizar o cuidado médico individual e promover uma maior qualidade de vida e bem-estar geral. 
