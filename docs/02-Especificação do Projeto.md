@@ -225,7 +225,7 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em segu
   
 ## Indicadores de Desempenho
 
-![Indicadores de Desempenho](img/02-indic-desemp.png)
+![Indicadores de desempenho](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/e06dfa9b-e891-4016-9380-5ec3ff80fcb9)
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ## Requisitos
