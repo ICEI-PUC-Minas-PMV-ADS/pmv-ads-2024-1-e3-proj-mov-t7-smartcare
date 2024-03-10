@@ -85,6 +85,7 @@ Nessa seção serão apresentados os principais aspectos do projeto na seguinte 
         <td><i><strong>Idade:</strong></i> 52 anos</td>
         <td><i><strong>Ocupação:</strong></i> Empresário</td>
         <td><i><strong>Aplicativos:</strong></i> Facebook, Linkedin, Youtube</td>
+    </tr>
     <tr>
       <td colspan="2">
         <strong><i>Motivações:</i></strong> Marcos é um empreendedor ambicioso que está sempre em busca de novos desafios e oportunidades de negócios. Ele valoriza muito sua saúde e bem-estar, pois sabe que são fundamentais para sua capacidade de liderança e tomada de decisões.
