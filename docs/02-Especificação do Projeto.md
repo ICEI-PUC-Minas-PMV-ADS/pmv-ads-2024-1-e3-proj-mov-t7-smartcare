@@ -82,6 +82,7 @@ Nessa seção serão apresentados os principais aspectos do projeto na seguinte 
     </tr>
     <tr>
         <td><i><strong>Nome:</strong></i> Marcos Silva</td>
+        <td><i><strong>Idade:</strong></i> 52 anos</td>
         <td><i><strong>Ocupação:</strong></i> Empresário</td>
         <td><i><strong>Aplicativos:</strong></i> Facebook, Linkedin, Youtube</td>
         <td><i><strong>Motivações:</strong></i> Marcos é um empreendedor ambicioso que está sempre em busca de novos desafios e oportunidades de negócios. Ele valoriza muito sua saúde e bem-estar, pois sabe que são fundamentais para sua capacidade de liderança e tomada de decisões.</td>
