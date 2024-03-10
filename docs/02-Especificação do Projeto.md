@@ -243,17 +243,11 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-004|O sistema deve permitir o cadastro, consulta, atualização e exclusão (CRUD) de exames médicos, incluindo informações como: Nome do exame, Recomendação médica(documento), Local do exame, data e horários para realização, status (realizado, ou a fazer). No caso de exames já realizado deve ser possível a anexação de documentos como laudos, resultados, imagens, vídeos, dentre outras formas de Mídias de exames.|ALTA|
 |RF-005|O sistema deve permitir que novos usuários se cadastrem na plataforma, incluindo informações como: Nome, data de nascimento, e-mail e telefone celular.|ALTA|
 |RF-006|O sistema deve permitir que usuários consultem, editem ou excluam suas informações de perfil.|ALTA|
-|RF-007|Permitir que os usuários registrem a quantidade atual de cada medicamento em estoque.|ALTA|
-|RF-008|Permitir que os usuários cadastrem informações de contatos de emergência, incluindo nome, relação e número de telefone.|ALTA|
-|RF-009|Permitir que os usuários cadastrem novos medicamentos, incluindo nome, dosagem, forma de administração e frequência de uso.|ALTA|
-|RF-010|Permitir que os usuários registrem quando tomaram seus medicamentos, fornecendo uma visão geral do cumprimento do regime de tratamento.|ALTA|
-|RF-011|O sistema deve permitir que novos usuários se cadastrem na plataforma.|ALTA|
-|RF-012|Permitir que os usuários registrem informações sobre exames médicos realizados, incluindo data, tipo de exame, resultados e observações.|MÉDIA|
-|RF-013|O sistema deve exigir confirmação da administração da dose do usuário e garantir que a quantidade tomada seja subtraída da quantidade em estoque de modo a manter atualizado a quantidade disponível de forma automática.|MÉDIA|
-|RF-014|O sistema deve facilitar o acesso aos contatos de emergência, com uma tela dedicada para tal em destaque.|MÉDIA|
-|RF-015|O sistema deve emitir lembretes sobre datas e prazos relacionados à receita médica, como consultas de retorno, prazos e horários da consulta de retorno e validade da receita.|BAIXA|
-|RF-016|O sistema deve emitir lembretes sobre horários e prazos para a administração de medicamentos, assim também como deve alertar sobre a necessidade de reposição quando o estoque estiver baixo.|BAIXA|
-|RF-017|O sistema deve emitir lembretes sobre datas e prazos para a realização de exames.|BAIXA|
+|RF-007|O sistema deve exigir confirmação da administração da dose do usuário e garantir que a quantidade tomada seja subtraída da quantidade em estoque de modo a manter atualizado a quantidade disponível de forma automática.|MÉDIA|
+|RF-008|O sistema deve facilitar o acesso aos contatos de emergência, com uma tela dedicada para tal em destaque.|MÉDIA|
+|RF-009|O sistema deve emitir lembretes sobre datas e prazos relacionados à receita médica, como consultas de retorno, prazos e horários da consulta de retorno e validade da receita.|BAIXA|
+|RF-010|O sistema deve emitir lembretes sobre horários e prazos para a administração de medicamentos, assim também como deve alertar sobre a necessidade de reposição quando o estoque estiver baixo.|BAIXA|
+|RF-011|O sistema deve emitir lembretes sobre datas e prazos para a realização de exames.|BAIXA|
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
