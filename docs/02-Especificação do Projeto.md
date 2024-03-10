@@ -88,6 +88,11 @@ Nessa seção serão apresentados os principais aspectos do projeto na seguinte 
         <td><i><strong>Motivações:</strong></i> Marcos é um empreendedor ambicioso que está sempre em busca de novos desafios e oportunidades de negócios. Ele valoriza muito sua saúde e bem-estar, pois sabe que são fundamentais para sua capacidade de liderança e tomada de decisões.</td>
     </tr>
     <tr>
+      <td colspan="2">
+        <strong><i>Motivações:</i></strong> Marcos é um empreendedor ambicioso que está sempre em busca de novos desafios e oportunidades de negócios. Ele valoriza muito sua saúde e bem-estar, pois sabe que são fundamentais para sua capacidade de liderança e tomada de decisões.
+      </td>
+    </tr>
+    <tr>
         <td colspan="2">
             <strong><i>Frustrações:</i></strong> Marcos tem dificuldade em manter uma rotina saudável devido ao ritmo acelerado de trabalho e às viagens frequentes. Ele também enfrenta problemas de estresse e ansiedade devido às pressões do mundo dos negócios.
         </td>
