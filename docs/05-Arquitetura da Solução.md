@@ -38,6 +38,20 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
+- IDEs de desenvolvimento: Visual Studio Code, node.JS, Visual Studio 2022 e React Native;
+  
+- Linguagens utilizadas: HTML, CSS, JavaScript, C# e SQL;
+  
+- Ferramenta de design: Figma;
+  
+- Ferramenta de Diagramação: Draw.io;
+  
+- Ferramenta de versionamento: Git;
+  
+- Ferramenta de Gestão de Projeto: Github Projects;
+  
+- Plataforma para hospedagem do Site: Github Pages.
+
 ## Hospedagem
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.
