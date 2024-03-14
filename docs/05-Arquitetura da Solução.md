@@ -36,8 +36,6 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
 - IDEs de desenvolvimento: Visual Studio Code, node.JS, Visual Studio 2022 e React Native;
   
 - Linguagens utilizadas: HTML, CSS, JavaScript, C# e SQL;
@@ -51,6 +49,20 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 - Ferramenta de Gestão de Projeto: Github Projects;
   
 - Plataforma para hospedagem do Site: Github Pages.
+
+A seguir, apresentamos uma representação do percurso do usuário pelo sistema, mostrando os passos pelos quais ele atravessa até receber uma resposta.
+
+  ![Interação Usuário Sitema](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/0c86ce92-73d2-48ca-88b8-0430e834f692)
+
+- 1 Usuário: Um usuário abre o aplicativo em seu dispositivo móvel.
+
+- 2 Frontend (React Native): A interface do aplicativo é carregada e exibida no dispositivo do usuário.
+
+- 3 Interatividade: O usuário pode interagir com os diferentes elementos da interface, como botões, menus e formulários.
+
+- 4 Backend (node.js, SQL): Quando o usuário realiza uma ação, como preencher um formulário e enviar dados, o aplicativo envia uma solicitação para o backend, onde o node.js processa os dados e realiza operações no banco de dados SQL, como armazenar informações do usuário ou recuperar dados relevantes.
+
+- 5 Resposta ao Usuário: Após o processamento no backend, o frontend recebe uma resposta do servidor. Por exemplo, se o usuário preencher um formulário de login corretamente, o backend pode retornar uma resposta confirmando o login bem-sucedido. Essa resposta é então exibida ao usuário na interface do aplicativo, por exemplo, redirecionando-o para a página inicial do aplicativo ou exibindo uma mensagem de boas-vindas.
 
 ## Hospedagem
 
