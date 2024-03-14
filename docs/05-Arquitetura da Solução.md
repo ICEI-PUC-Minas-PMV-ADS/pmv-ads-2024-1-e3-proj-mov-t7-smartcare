@@ -54,14 +54,16 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+Procedi à criação de um novo repositório denominado <Smartcare>.github.io, seguindo as orientações fornecidas pela própria plataforma.
+Posteriormente, realizei o upload dos arquivos que compõem o site para o repositório recém-criado. Dado que o site já estava previamente desenvolvido.
+Nas configurações do repositório, localiza-se a seção "GitHub Pages" nela selecionamos a branch que continha os arquivos do site como a fonte para a publicação do GitHub Pages. Após salvar as configurações, o site foi publicado em poucos minutos e tornou-se acessível através do URL https://<Smartcare>.github.io.
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+## Lançamento
+
+Após concluir o processo de hospedagem do meu site no GitHub Pages, a publicação das atualizações tornou-se uma tarefa bastante simplificada. Sempre que desejo fazer uma alteração no meu site, basta realizar as modificações nos arquivos pertinentes e fazer o upload para o repositório no GitHub.
+Assim que os novos arquivos são enviados para o repositório, o GitHub Pages detecta automaticamente as alterações e atualiza o site correspondente em questão de minutos. Isso significa que qualquer modificação ou adição de conteúdo é imediatamente refletida no site online.
+Essa funcionalidade de atualização automática elimina a necessidade de qualquer intervenção manual para publicar as alterações, proporcionando uma experiência de gerenciamento de site contínuo e sem complicações. Em resumo, o GitHub Pages simplifica significativamente o processo de lançamento e atualização do site, permitindo que eu me concentre no conteúdo e na funcionalidade do site, em vez de lidar com tarefas de gerenciamento de hospedagem.
+
 
 ## Qualidade de Software
 
