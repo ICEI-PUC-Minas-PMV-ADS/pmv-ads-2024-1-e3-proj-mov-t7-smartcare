@@ -34,8 +34,6 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
 - IDEs de desenvolvimento: Visual Studio Code, node.JS, Visual Studio 2022 e React Native;
   
 - Linguagens utilizadas: HTML, CSS, JavaScript, C# e SQL;
