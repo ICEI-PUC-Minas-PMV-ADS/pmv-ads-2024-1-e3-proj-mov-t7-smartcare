@@ -334,7 +334,7 @@ Por fim, para garantir uma margem de lucro sustentável e competitiva no mercado
 
 Em resumo, a estrutura de custos apresentada reflete uma abordagem abrangente e justificada para o desenvolvimento e publicação do projeto SmartCare, levando em consideração tanto os custos fixos diretos quanto as taxas associadas à publicação do aplicativo.
 
-![Custo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/709a4223-b93e-4530-8ead-0c3e12e28458)
+![Custo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/c56a03e9-afd2-49d8-8229-7f2a44534a85)
 
 
 
