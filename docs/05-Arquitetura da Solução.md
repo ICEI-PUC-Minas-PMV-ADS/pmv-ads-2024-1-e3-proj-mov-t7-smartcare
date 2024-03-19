@@ -22,11 +22,11 @@ O Modelo de Entidade-Relacionamento (ER) oferece um diagrama que visualiza as in
 
 ## Esquema Relacional
 
-O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
- 
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
 
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
+O Esquema Relacional é uma representação tabular dos dados, acompanhada de restrições de integridade e definições de chaves primárias, garantindo a organização e consistência dos dados.
+ 
+![Esquema Relacional](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/bc347d7d-615d-4be1-adf1-8c83d1cbb0fe)
+
 
 ## Modelo Físico
 
