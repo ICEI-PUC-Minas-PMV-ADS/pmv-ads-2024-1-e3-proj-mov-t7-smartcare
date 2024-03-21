@@ -7,14 +7,45 @@
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos em várias plataformas. A tabela abaixo detalha os ambientes, suas plataformas correspondentes e os links de acesso: 
+Os artefatos do projeto são desenvolvidos em várias plataformas. A tabela abaixo detalha os ambientes, suas plataformas correspondentes e os links de acesso:
+<table>
+  <thead>
+    <tr>
+      <th>Ambiente</th>
+      <th>Plataforma</th>
+      <th>Link de Acesso</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Repositório de código fonte</td>
+      <td>GitHub</td>
+      <td><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare.git">GitHub Repository</a></td>
+    </tr>
+    <tr>
+      <td>Banco de Dados</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Projeto de Interface e  Wireframes</td>
+      <td>Figma</td>
+      <td><a href="https://www.figma.com/file/Q4y45mdJkQphxEDUcGQfPS/SmartCare?type=design&node-id=0-1&mode=design&t=uL0hZhXHfkyFkCRL-0">Figma</a></td>
+    </tr>
+    <tr>
+      <td>Gerenciamento do Projeto</td>
+      <td>Kanban Trello</td>
+      <td><a href="https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/912">Trello</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+foi utilizado para hospedagem do repositório. Adoção de uma estratégia de branching que define como o código é organizado em branches (ramos) para desenvolvimento, testes e produção. Realização de revisões de código regularmente para garantir a qualidade e a consistência do código. Ferramentas como o GitHub facilitam esse processo. 
 
 O projeto segue a seguinte convenção para o nome de branches:
 
@@ -31,16 +62,6 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
@@ -48,27 +69,23 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 Apresente a divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
+- Scrum Master: Maria de Lourdes Monteiro;
+- Product Owner: Ademir Colares Dos Santos Junior;
+- Equipe de Desenvolvimento: Jefferson Freitas Da Silva, Israel Cunha Da Silva;
+- Equipe de Design: Bianca Camila Pereira Reis.
+- Equipe de Quality Assurance: Leonardo Júnio De Paula.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
  
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+- To Do: tarefas elencadas para a Sprint ativa;
+- In Progress: tarefas em execução;
+- Done: tarefas finalizadas.
+
+O quadro a seguir foi desenvolvido pelo grupo na ferramenta de gerenciamento de projetos está disponível através da URL Kanban GitHub. e é apresentado, no estado atual, na Figura .
+
+
 
 ### Ferramentas
 
