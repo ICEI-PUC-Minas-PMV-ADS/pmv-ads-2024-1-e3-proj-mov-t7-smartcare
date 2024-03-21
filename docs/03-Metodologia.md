@@ -1,14 +1,14 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Nosso grupo adotará a metodologia ágil Scrum para abordar o problema do desenvolvimento do aplicativo de lembretes de medicamentos. Optamos por essa abordagem devido à sua capacidade de adaptação a mudanças, foco na entrega de valor ao cliente e ênfase na colaboração e comunicação contínua.
+Para organizar nossa equipe, usaremos a ferramenta Trello para gerenciar as tarefas e o progresso do projeto. No Trello, criaremos quadros para cada sprint do Scrum, onde listamos as tarefas a serem realizadas, em andamento e concluídas. Isso nos permitirá visualizar o fluxo de trabalho e acompanhar o progresso do projeto de forma transparente.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os artefatos do projeto são desenvolvidos em várias plataformas. A tabela abaixo detalha os ambientes, suas plataformas correspondentes e os links de acesso: 
+
 
 ## Controle de Versão
 
