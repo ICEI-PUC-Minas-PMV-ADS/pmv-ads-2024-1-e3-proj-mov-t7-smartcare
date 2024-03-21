@@ -1,8 +1,8 @@
 
 # Metodologia
 
-Nosso grupo adotará a metodologia ágil Scrum para abordar o problema do desenvolvimento do aplicativo de lembretes de medicamentos. Optamos por essa abordagem devido à sua capacidade de adaptação a mudanças, foco na entrega de valor ao cliente e ênfase na colaboração e comunicação contínua.
-Para organizar nossa equipe, usaremos a ferramenta Trello para gerenciar as tarefas e o progresso do projeto. No Trello, criaremos quadros para cada sprint do Scrum, onde listamos as tarefas a serem realizadas, em andamento e concluídas. Isso nos permitirá visualizar o fluxo de trabalho e acompanhar o progresso do projeto de forma transparente.
+<p>Nosso grupo adotará a metodologia ágil Scrum para abordar o problema do desenvolvimento do aplicativo de lembretes de medicamentos. Optamos por essa abordagem devido à sua capacidade de adaptação a mudanças, foco na entrega de valor ao cliente e ênfase na colaboração e comunicação contínua.</p>
+<p>Para organizar nossa equipe, usaremos a ferramenta Trello para gerenciar as tarefas e o progresso do projeto. No Trello, criaremos quadros para cada sprint do Scrum, onde listamos as tarefas a serem realizadas, em andamento e concluídas. Isso nos permitirá visualizar o fluxo de trabalho e acompanhar o progresso do projeto de forma transparente.</p>
 
 
 ## Relação de Ambientes de Trabalho
