@@ -85,20 +85,20 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro a seguir foi desenvolvido pelo grupo na ferramenta de gerenciamento de projetos está disponível através da URL Kanban GitHub. e é apresentado, no estado atual, na Figura .
 
+<img src="img/kanban-github.png">
 
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Visual Studio Code.
+  O VS Code é um editor de código altamente popular e amplamente utilizado na indústria de desenvolvimento de software. Sua escolha se baseia na sua versatilidade, extensibilidade e eficiência no desenvolvimento de software. 
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+- Microsoft Teams e Whatsapp.
+O Microsoft Teams é uma plataforma de colaboração que oferece uma variedade de recursos, incluindo chat, videoconferência, compartilhamento de arquivos e integração com outras ferramentas da Microsoft, como o Office 365. Sua escolha se baseia na capacidade de facilitar a comunicação e a colaboração entre os membros da equipe em tempo real, bem como na sua integração com outras ferramentas usadas no ambiente de trabalho.
+A escolha do WhatsApp se deve à sua capacidade de oferecer comunicação rápida e informal entre os membros da equipe, especialmente em situações em que o acesso a outras plataformas de comunicação, como o Microsoft Teams, pode não ser viável. Essa ferramenta permite trocas rápidas de mensagens, compartilhamento de informações e coordenação de atividades de forma eficaz, especialmente em equipes remotas.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+
+- Figma.
+  Figma é uma ferramenta de design colaborativo baseada na web que permite criar, prototipar e compartilhar interfaces de usuário e designs de forma eficiente. Sua escolha se baseia na capacidade de facilitar a colaboração entre designers e desenvolvedores, bem como na sua capacidade de criar diagramas e protótipos que capturam de forma precisa e detalhada as necessidades e requisitos da solução em desenvolvimento. Além disso, o Figma oferece recursos avançados de colaboração em tempo real, o que é essencial para equipes distribuídas geograficamente.
