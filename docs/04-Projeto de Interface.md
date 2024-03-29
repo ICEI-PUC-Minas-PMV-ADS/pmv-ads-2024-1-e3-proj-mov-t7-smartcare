@@ -31,6 +31,13 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/088f8c49-0510-489f-b01d-ce7cd55cffdd)
 
+## Fluxo para gestão de receitas:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/ef7eb921-2f1b-494a-b95e-759091c2a97e)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/9ffc30e7-4755-4986-9be4-c15892e7c934)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/8be07755-d645-49a1-b23b-8f442b78d18a)
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
 
