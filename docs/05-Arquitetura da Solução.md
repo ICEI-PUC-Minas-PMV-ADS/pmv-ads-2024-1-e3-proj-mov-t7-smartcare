@@ -36,7 +36,7 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 - IDEs de desenvolvimento: Visual Studio Code, node.JS, Visual Studio 2022 e React Native;
   
-- Linguagens utilizadas: HTML, CSS, JavaScript, C# e SQL;
+- Linguagens utilizadas: HTML, CSS, JavaScript;
   
 - Ferramenta de design: Figma;
   
@@ -46,7 +46,7 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
   
 - Ferramenta de Gestão de Projeto: Github Projects;
   
-- Plataforma para hospedagem do Site: Github Pages.
+- Plataforma para hospedagem do Site: Azure.
 
 A seguir, apresentamos uma representação do percurso do usuário pelo sistema, mostrando os passos pelos quais ele atravessa até receber uma resposta.
 
@@ -64,15 +64,10 @@ A seguir, apresentamos uma representação do percurso do usuário pelo sistema,
 
 ## Hospedagem
 
-Procedi à criação de um novo repositório denominado <Smartcare>.github.io, seguindo as orientações fornecidas pela própria plataforma.
-Posteriormente, realizei o upload dos arquivos que compõem o site para o repositório recém-criado. Dado que o site já estava previamente desenvolvido.
-Nas configurações do repositório, localiza-se a seção "GitHub Pages" nela selecionamos a branch que continha os arquivos do site como a fonte para a publicação do GitHub Pages. Após salvar as configurações, o site foi publicado em poucos minutos e tornou-se acessível através do URL https://<Smartcare>.github.io.
-
-### Lançamento
-
-Após concluir o processo de hospedagem do meu site no GitHub Pages, a publicação das atualizações tornou-se uma tarefa bastante simplificada. Sempre que desejo fazer uma alteração no meu site, basta realizar as modificações nos arquivos pertinentes e fazer o upload para o repositório no GitHub.
-Assim que os novos arquivos são enviados para o repositório, o GitHub Pages detecta automaticamente as alterações e atualiza o site correspondente em questão de minutos. Isso significa que qualquer modificação ou adição de conteúdo é imediatamente refletida no site online.
-Essa funcionalidade de atualização automática elimina a necessidade de qualquer intervenção manual para publicar as alterações, proporcionando uma experiência de gerenciamento de site contínuo e sem complicações. Em resumo, o GitHub Pages simplifica significativamente o processo de lançamento e atualização do site, permitindo que eu me concentre no conteúdo e na funcionalidade do site, em vez de lidar com tarefas de gerenciamento de hospedagem.
+Procedi à criação de um novo aplicativo web no Azure, seguindo as orientações fornecidas pela própria plataforma. Posteriormente, realizei o upload dos arquivos que compõem o site para o aplicativo web recém-criado, dado que o site já estava previamente desenvolvido. Nas configurações do aplicativo web, localizei a seção "Configurações de implantação" e selecionei a opção para fazer o deploy a partir do repositório do Azure DevOps onde estavam os arquivos do site. Após salvar as configurações, o site foi publicado em poucos minutos e tornou-se acessível através do URL https://smartcare.azurewebsites.net.
+Após concluir o processo de hospedagem do aplicativo web no Azure, a publicação das atualizações tornou-se uma tarefa bastante simplificada. Sempre que for necessário fazer uma alteração no aplicativo, basta realizar as modificações nos arquivos pertinentes e fazer o upload para o repositório de código fonte no Azure DevOps.
+Assim que os novos arquivos são enviados para o repositório, o serviço de implantação automática do Azure detecta automaticamente as alterações e atualiza o aplicativo correspondente em questão de minutos. Isso significa que qualquer modificação ou adição de conteúdo é imediatamente refletida no aplicativo online.
+Essa funcionalidade de atualização automática elimina a necessidade de qualquer intervenção manual para publicar as alterações, proporcionando uma experiência de gerenciamento de aplicativo contínuo e sem complicações.
 
 
 ## Qualidade de Software
