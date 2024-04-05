@@ -18,7 +18,7 @@ O diagrama de classes oferece uma representação visual da arquitetura do softw
 
 O Modelo de Entidade-Relacionamento (ER) oferece um diagrama que visualiza as interações entre entidades na aplicação interativa, esclarecendo como diferentes objetos se conectam e interagem entre si.
 
-![Modelo ER](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/ac1c0212-d1d1-47db-a0f0-9a367bdf5f76)
+![Modelo ER](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/e4e5b43f-5301-4b9f-b760-ced33b19d4ac)
 
 ## Esquema Relacional
 
