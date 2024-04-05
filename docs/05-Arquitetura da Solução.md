@@ -11,14 +11,14 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 O diagrama de classes oferece uma representação visual da arquitetura do software, mostrando as interconexões entre as diferentes classes que compõem o sistema. Essas classes desempenham o papel de modelos para definir como os objetos serão instanciados e operados em tempo de execução na memória.
 
-![Diagrama de Classe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/f1fb2e65-f2d4-4b1e-9e34-d41339b9c227)
+![Diagrama de Classe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/a068f125-dcbe-4b6a-8d42-3c0542cf2f99)
 
 
 ## Modelo ER
 
 O Modelo de Entidade-Relacionamento (ER) oferece um diagrama que visualiza as interações entre entidades na aplicação interativa, esclarecendo como diferentes objetos se conectam e interagem entre si.
 
-![Modelo ER (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/130614485/defd132d-1247-4081-baf5-125f7c0dbf9e)
+![Modelo ER](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/ac1c0212-d1d1-47db-a0f0-9a367bdf5f76)
 
 ## Esquema Relacional
 
