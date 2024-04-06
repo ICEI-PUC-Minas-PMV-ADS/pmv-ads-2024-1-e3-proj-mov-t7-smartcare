@@ -25,7 +25,7 @@ O Modelo de Entidade-Relacionamento (ER) oferece um diagrama que visualiza as in
 
 O Esquema Relacional é uma representação tabular dos dados, acompanhada de restrições de integridade e definições de chaves primárias, garantindo a organização e consistência dos dados.
  
-![Esquema Relacional](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/d3d66952-2e1c-41e5-8871-6577c5271795)
+![Esquema Relacional](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/bafa5fbd-303b-4d62-9d1e-cf04cbc04605)
 
 
 ## Modelo Físico
