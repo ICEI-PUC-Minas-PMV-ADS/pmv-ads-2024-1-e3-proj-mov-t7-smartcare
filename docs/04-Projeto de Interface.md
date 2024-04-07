@@ -91,43 +91,67 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 ## Tela Login:
 
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/3f2f84e5-1d1f-4257-a9f4-653be32b5be2)
+
+</div>
 
 ## Tela de Registro:
 
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/c1b4ae7b-65d5-42b2-99b5-91f99b8c4a02)
+
+</div>
 
 ## Tela Home:
 
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/070b70cf-0b9b-45f6-ac06-743462f56a37)
+
+</div>
 
 ## Tela Informações do Perfil:
 
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/dd709415-d5c5-4da0-8e82-93f4670176ca)
+
+</div>
 
 ## Tela de Recuperação de Conta:
 
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/184bc2be-3c93-4117-a08d-80c2ef092ccf)
+
+</div>
 
 ## Tela de Gestão de Exames:
 
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/346dbeb5-e27e-469d-971d-1bd51c7007b0) ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/739c66e7-67b0-4fb8-b648-be5ae4a000d6)
+
+</div>
 
 ## Tela de Gestão de Receitas:
 
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/a6878a54-698d-4802-a164-0d51cdea9885) ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/ae66db62-2555-4dfb-ac7f-48c25e17e1e4)
 
+</div>
 ## Tela de Gestão de Medicamentos:
 
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/b34ca546-7720-4eae-a24e-7287382993f8) ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/9f146970-1bc9-4546-9b4f-8e907bac5da8)
+
+</div>
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+
