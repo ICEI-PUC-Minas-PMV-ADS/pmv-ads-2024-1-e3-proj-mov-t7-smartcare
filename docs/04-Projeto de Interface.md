@@ -15,7 +15,7 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 ## Fluxo do usuário:
 
-<div align="justify">
+<div align="center">
  
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/6be5d733-9501-4b7a-bf92-9fc077292333)
 
