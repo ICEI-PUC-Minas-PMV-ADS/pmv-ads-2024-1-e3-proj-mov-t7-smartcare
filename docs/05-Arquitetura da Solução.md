@@ -51,7 +51,6 @@ O Esquema Relacional é uma representação tabular dos dados, acompanhada de re
 ### Tabela receita
 ![Tabela receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/28159035-49c2-462f-82ec-9098a4cd940d)
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
 ## Tecnologias Utilizadas
 
