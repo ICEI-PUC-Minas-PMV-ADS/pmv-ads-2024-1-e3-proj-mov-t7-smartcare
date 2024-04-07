@@ -1,6 +1,7 @@
 # Projeto de Interface
 
-<<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+
 <div align="justify">
  
 Nesta seção há uma visão geral da interação do usuário pelas telas do sistema e um protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
