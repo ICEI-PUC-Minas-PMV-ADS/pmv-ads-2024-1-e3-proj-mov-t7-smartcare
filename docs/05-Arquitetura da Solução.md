@@ -30,6 +30,27 @@ O Esquema Relacional é uma representação tabular dos dados, acompanhada de re
 
 ## Modelo Físico
 
+### Tabela consulta
+![Tabela consulta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/0a95793d-2d67-432f-b206-d7411e1598ed)
+
+![Smartcare_consultas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/327b95c0-2a8a-4d94-b6ff-303913895f9c)
+
+
+### Tabela remédio
+![Tabela remédio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/268dcb52-1822-4862-a950-4a2ec8438d1c)
+
+![Smartcare_remédio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/d55efb89-0af5-4791-955c-2ac1f251fe92)
+
+
+### Tabela usuário
+![Tabela usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/57849d3f-d8f4-4641-99dc-9d8f7eae39fd)
+
+![Smartcare_usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/e512b40b-99d5-4d30-81d5-c03f249ac99b)
+
+
+### Tabela receita
+![Tabela receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/129237541/28159035-49c2-462f-82ec-9098a4cd940d)
+
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
 ## Tecnologias Utilizadas
