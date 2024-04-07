@@ -21,13 +21,13 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 </div>
 
-<div align="justify">
+<div align="center">
  
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/de340ddd-a38c-4677-96dd-90d59ee62354)
 
 </div>
 
-<div align="justify">
+<div align="center">
  
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/939b2dcd-379d-4c25-80ef-e15fd7a960c9)
 
@@ -35,40 +35,59 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 ## Fluxo para gestão de medicamentos:
 
-<div align="justify">
+<div align="center">
  
 ![Cadastro de medicamentos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/79485df1-6564-4c98-bfee-c8aea9e4feee)
 
 </div>
 
-<div align="justify">
+<div align="center">
  
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/ea64dfb9-2add-4d43-a0a1-e97542087c35)
 
 </div>
 
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/2cc07d41-136c-48a1-9a45-f53d8c197232)
 
+</div>
+
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/088f8c49-0510-489f-b01d-ce7cd55cffdd)
+
+</div>
 
 ## Fluxo para gestão de receitas:
 
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/ef7eb921-2f1b-494a-b95e-759091c2a97e)
 
+</div>
+
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/9ffc30e7-4755-4986-9be4-c15892e7c934)
 
+</div>
+
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/8be07755-d645-49a1-b23b-8f442b78d18a)
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
+</div>
 
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
 
 ## Tela Inicial:
-
+<div align="center">
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-smartcare/assets/127978114/8daff41a-ec34-4fdf-9f7f-96d943209fe3)
+
+</div>
 
 ## Tela Login:
 
