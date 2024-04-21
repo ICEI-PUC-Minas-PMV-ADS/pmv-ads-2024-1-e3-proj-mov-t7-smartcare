@@ -1,65 +1,74 @@
 ## Plano de Testes de Usabilidade
 
-### Teste de Navegação para Registro de Receita Médica:
+# Casos de Teste de Usabilidade
 
-**Objetivo:** Avaliar a facilidade de encontrar a opção de registro de uma nova receita médica.<br>
-**Método:** Peça aos usuários para encontrar a opção de registro de receita médica e registrar uma nova receita.<br>
-**Critérios de Avaliação:** Tempo necessário para encontrar a opção, clareza do processo de registro, feedback sobre a localização do recurso.
+## CT-001: Visibilidade do conteúdo das páginas
+- **Objetivo do Teste:** Verificar se o design do site permite completa visibilidade do conteúdo das páginas, com tamanho de fonte legível e alto contraste entre cores.
+- **Passos:**
+  1. Acessar o site.
+  2. Verificar em todas as páginas se o design está legível em termos de fontes, cores e ícones.
+- **Critério de Êxito:** Todo o conteúdo do site deve ser visível e legível.
 
-### Teste de Edição de Receita Médica:
+## CT-002: Consistência e padronização da navbar
+- **Objetivo do Teste:** Verificar se o design da navbar está padronizado, com diferenciação para usuários logados.
+- **Passos:**
+  1. Acessar o site.
+  2. Verificar em todas as páginas se o design está padronizado e se os links levam para as páginas corretas.
+  3. Realizar login de usuário.
+  4. Verificar se a navbar é alterada corretamente.
+  5. Verificar em todas as páginas se o design está padronizado e se os links levam para as páginas corretas.
+- **Critério de Êxito:**
+  - A navbar deve ser a mesma em todas as páginas do site e levar para os caminhos corretos.
+  - Para usuários logados, o botão "login" deve ser substituído por "logout" e a mensagem de boas-vindas deve conter o nome correto do usuário.
 
-**Objetivo:** Avaliar a facilidade de edição de uma receita médica existente.<br>
-**Método:** Peça aos usuários para encontrar uma receita médica existente e editar suas informações.<br>
-**Critérios de Avaliação:** Facilidade de localizar a receita médica, clareza do processo de edição, feedback sobre a conclusão da edição.
+## CT-003: Correspondência e reconhecimento de ações
+- **Objetivo do Teste:** Verificar se as ações são dispostas no site de forma padrão e com iconografia adequada.
+- **Passos:**
+  1. Acessar o site.
+  2. Verificar se a logo disposta no canto esquerdo da navbar leva à homepage.
+  3. Verificar se os links à direita da navbar permitem login/logout.
+  4. Verificar se o uso de iconografia na aplicação é compreensível e adequado às ações correspondentes.
+- **Critério de Êxito:**
+  - Os links na navbar devem seguir o padrão de aplicações web.
+  - A iconografia utilizada na aplicação deve ser adequada às ações correspondentes.
 
-### Teste de Exclusão de Receita Médica:
+## CT-004: Fluxo claro e facilitado entre as páginas
+- **Objetivo do Teste:** Verificar se o fluxo é claro e se há disponíveis caminhos fáceis entre as páginas.
+- **Passos:**
+  1. Acessar o site.
+  2. Seguir o fluxo na aplicação, verificando se é possível voltar às páginas anteriores e/ou acessar outras páginas.
+  3. Verificar se há na navbar link para todas as páginas.
+  4. Para usuários logados, verificar se o menu interno possui caminho para todas as funcionalidades da aplicação.
+- **Critério de Êxito:**
+  - Todas as páginas devem possuir retorno e/ou caminho para outras páginas.
+  - Para usuários logados, o menu interno deve estar sempre disponível, fornecendo links para todas as funcionalidades.
 
-**Objetivo:** Avaliar a facilidade de exclusão de uma receita médica.<br>
-**Método:** Peça aos usuários para encontrar uma receita médica existente e excluí-la.<br>
-**Critérios de Avaliação:** Facilidade de encontrar a opção de exclusão, confirmação de exclusão, feedback sobre o sucesso da exclusão.
+## CT-005: Flexibilidade de uso
+- **Objetivo do Teste:** Verificar se o usuário consegue utilizar as funcionalidades com flexibilidade.
+- **Passos:**
+  1. Realizar login de usuário.
+  2. Verificar se é permitido ao usuário personalizar seus dados conforme desejado (com exceção das restrições do sistema).
+  3. Verificar se o usuário consegue utilizar as funcionalidades de forma independente e como desejar.
+- **Critério de Êxito:**
+  - O usuário deve conseguir personalizar os dados conforme desejado.
+  - O usuário deve conseguir excluir dados conforme desejado.
+  - O usuário deve conseguir utilizar apenas as funcionalidades que desejar, sem que seja obrigado a utilizar as demais.
 
-### Teste de Navegação para Registro de Medicamento:
+## CT-006: Prevenção de erros
+- **Objetivo do Teste:** Verificar se o usuário recebe alertas antes de excluir dados salvos.
+- **Passos:**
+  1. Realizar login de usuário.
+  2. Verificar em todas as funcionalidades se a aplicação emite alerta, pedindo ao usuário confirmação para excluir dados salvos (ex: deseja excluir este evento?).
+- **Critério de Êxito:**
+  - Todas as funcionalidades devem emitir alerta, evitando que dados sejam apagados sem querer pelo usuário.
 
-**Objetivo:** Avaliar a facilidade de encontrar a opção de registro de um novo medicamento.<br>
-**Método:** Peça aos usuários para encontrar a opção de registro de medicamento e registrar um novo medicamento.<br>
-**Critérios de Avaliação:** Tempo necessário para encontrar a opção, clareza do processo de registro, feedback sobre a localização do recurso.
-
-### Teste de Edição de Medicamento:
-
-**Objetivo:** Avaliar a facilidade de edição de um medicamento existente.<br>
-**Método:** Peça aos usuários para encontrar um medicamento existente e editar suas informações.<br>
-**Critérios de Avaliação:** Facilidade de localizar o medicamento, clareza do processo de edição, feedback sobre a conclusão da edição.
-
-### Teste de Exclusão de Medicamento:
-
-**Objetivo:** Avaliar a facilidade de exclusão de um medicamento.<br>
-**Método:** Peça aos usuários para encontrar um medicamento existente e excluí-lo.<br>
-**Critérios de Avaliação:** Facilidade de encontrar a opção de exclusão, confirmação de exclusão, feedback sobre o sucesso da exclusão.
-
-### Teste de Navegação para Registro de Exame Médico:
-
-**Objetivo:** Avaliar a facilidade de encontrar a opção de registro de um novo exame médico.<br>
-**Método:** Peça aos usuários para encontrar a opção de registro de exame médico e registrar um novo exame.<br>
-**Critérios de Avaliação:** Tempo necessário para encontrar a opção, clareza do processo de registro, feedback sobre a localização do recurso.
-
-### Teste de Edição de Exame Médico:
-
-**Objetivo:** Avaliar a facilidade de edição de um exame médico existente.<br>
-**Método:** Peça aos usuários para encontrar um exame médico existente e editar suas informações.<br>
-**Critérios de Avaliação:** Facilidade de localizar o exame médico, clareza do processo de edição, feedback sobre a conclusão da edição.
-
-### Teste de Exclusão de Exame Médico:
-
-**Objetivo:** Avaliar a facilidade de exclusão de um exame médico.<br>
-**Método:** Peça aos usuários para encontrar um exame médico existente e excluí-lo.<br>
-**Critérios de Avaliação:** Facilidade de encontrar a opção de exclusão, confirmação de exclusão, feedback sobre o sucesso da exclusão.
-
-### Teste de Registro de Novo Usuário:
-
-**Objetivo:** Avaliar a facilidade de registro de um novo usuário na plataforma.<br>
-**Método:** Peça aos usuários para encontrar a opção de registro e preencher os campos necessários para criar uma nova conta.<br>
-**Critérios de Avaliação:** Facilidade de encontrar a opção de registro, clareza dos campos de entrada, feedback sobre o sucesso do registro.
-
+## CT-007: Mensagens e alertas
+- **Objetivo do Teste:** Verificar se o usuário recebe mensagens e alertas quando realizar alguma ação inadequada.
+- **Passos:**
+  1. Acessar o site.
+  2. Testar casos de erro no cadastro e login (formato de e-mail e senha inadequados, cadastro duplicado).
+  3. Realizar login de usuário.
+  4. Testar casos de erro nas funcionalidades (ex: cadastro de meta maior que o tempo disponível;
 
 
 
