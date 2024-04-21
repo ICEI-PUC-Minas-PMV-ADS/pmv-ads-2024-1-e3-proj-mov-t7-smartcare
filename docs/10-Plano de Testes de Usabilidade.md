@@ -65,7 +65,7 @@
 ## CT-007: Mensagens e alertas
 - **Objetivo do Teste:** Verificar se o usuário recebe mensagens e alertas quando realizar alguma ação inadequada.
 - **Passos:**
-  1. Acessar o site.
+  1. Acessar a aplicação.
   2. Testar casos de erro no cadastro e login (formato de e-mail e senha inadequados, cadastro duplicado).
   3. Realizar login de usuário.
   4. Testar casos de erro nas funcionalidades (ex: cadastro de meta maior que o tempo disponível;
