@@ -1,4 +1,5 @@
 import React from "react";
+<<<<<<< Updated upstream
 import { StatusBar } from "expo-status-bar";
 import { Presentation } from "./screens/presentationScreen/presentation";
 import { createStackNavigator } from "@react-navigation/stack";
@@ -7,6 +8,11 @@ import { Login } from "./screens/loginScreen/login";
 import { Register } from "./screens/registerScreen/register";
 
 const Stack = createStackNavigator();
+=======
+import { View, StyleSheet } from "react-native";
+import { AppRoutes } from "./src/routes/app.routes";
+import "react-native-gesture-handler";
+>>>>>>> Stashed changes
 
 function MyStack() {
   return (
@@ -18,6 +24,7 @@ function MyStack() {
   );
 }
 
+<<<<<<< Updated upstream
 export default function App() {
   return (
     <NavigationContainer>
@@ -25,3 +32,11 @@ export default function App() {
     </NavigationContainer>
   );
 }
+=======
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: "#fff",
+  },
+});
+>>>>>>> Stashed changes
