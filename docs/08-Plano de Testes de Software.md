@@ -2,7 +2,7 @@
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir:
 
-## Requisito Funcional RF-001: Registro de Nova Receita Médica
+## CT-001: Registro de Nova Receita Médica
 
 **Descrição:** Verificar se os usuários podem registrar uma nova receita médica com sucesso.
 
@@ -15,7 +15,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
 
 **Resultado Esperado:** A receita médica é registrada com sucesso no sistema e todas as informações são salvas corretamente.
 
-## Requisito Funcional RF-002: Edição de Medicamento
+## CT-002: Edição de Medicamento
 
 **Descrição:** Verificar se os usuários podem editar informações de um medicamento existente.
 
@@ -29,7 +29,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
 
 **Resultado Esperado:** As informações do medicamento são atualizadas corretamente no sistema após a edição.
 
-## Requisito Funcional RF-003: Anexação de Documento a um Exame Médico
+## CT-003: Anexação de Documento a um Exame Médico
 
 **Descrição:** Verificar se os usuários podem anexar documentos a um exame médico existente.
 
@@ -43,7 +43,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
 
 **Resultado Esperado:** O documento é anexado com sucesso ao exame médico selecionado e pode ser visualizado pelos usuários autorizados.
 
-## Requisito Funcional RF-004: Registro de Novo Usuário
+## CT-004: Registro de Novo Usuário
 
 **Descrição:** Verificar se novos usuários podem se cadastrar no sistema.
 
@@ -55,7 +55,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
 
 **Resultado Esperado:** O novo usuário é registrado com sucesso no sistema e pode efetuar login usando as credenciais fornecidas.
 
-## Requisito Funcional RF-005: Edição do Perfil do Usuário
+## CT-005: Edição do Perfil do Usuário
 
 **Descrição:** Verificar se os usuários podem editar suas informações de perfil com sucesso.
 
@@ -68,7 +68,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
 
 **Resultado Esperado:** As informações do perfil do usuário são atualizadas corretamente no sistema após a edição.
 
-## Requisito Funcional RF-006: Confirmação da Administração de Dose
+## CT-006: Confirmação da Administração de Dose
 
 **Descrição:** Verificar se o sistema exige confirmação da administração de dose do usuário e atualiza o estoque automaticamente.
 
@@ -80,7 +80,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
 
 **Resultado Esperado:** O sistema subtrai a quantidade administrada do medicamento do estoque e atualiza automaticamente a quantidade disponível.
 
-## Requisito Funcional RF-007: Emissão de Lembretes de Receita Médica
+## CT-007: Emissão de Lembretes de Receita Médica
 
 **Descrição:** Verificar se o sistema emite lembretes sobre datas e prazos relacionados à receita médica.
 
@@ -90,7 +90,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
 
 **Resultado Esperado:** O sistema emite lembretes relevantes relacionados à receita médica conforme especificado nos requisitos.
 
-## Requisito Funcional RF-008: Emissão de Lembretes de Administração de Medicamentos
+## CT-008: Emissão de Lembretes de Administração de Medicamentos
 
 **Descrição:** Verificar se o sistema emite lembretes sobre horários e prazos para a administração de medicamentos e alerta sobre a necessidade de reposição quando o estoque estiver baixo.
 
@@ -101,7 +101,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
 
 **Resultado Esperado:** O sistema emite lembretes relevantes relacionados à administração de medicamentos conforme especificado nos requisitos.
 
-## Requisito Funcional RF-009: Emissão de Lembretes de Realização de Exames
+## CT-009: Emissão de Lembretes de Realização de Exames
 
 **Descrição:** Verificar se o sistema emite lembretes sobre datas e prazos para a realização de exames.
 
