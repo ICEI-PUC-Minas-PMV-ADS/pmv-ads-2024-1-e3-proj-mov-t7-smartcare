@@ -24,8 +24,8 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | :--- | :---: |
 | Procedimentos (passo à passo) | 1.Logar no sistema.<br> 2.Navegar até a seção de receitas médicas.<br> 3.Clicar no botão "Adicionar nova receita Receita".<br> 4.Preencher todos os campos obrigatórios.<br> 5.Salvar a receita. |
 | Resultado esperado |A receita médica é registrada com sucesso no sistema e todas as informações são salvas corretamente|
-| Avaliação |  |
-| Evidência |  |
+| Avaliação | O sistema validou com sucesso as informações inseridas. |
+| Evidência |   <img src="img/remedio.png">|
 
 | **Caso de Teste** | **CT-002: Edição de medicamento** |
 | :--- | :---: |
@@ -38,8 +38,8 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | :--- | :---: |
 | Procedimentos (passo à passo) | 1.Logar no sistema.<br> 2.Navegar até a seção de exames médicos.<br> 3.Selecionar um exame existente.<br> 4.Clicar no botão de anexar documento.<br> 5.Selecionar o documento a ser anexado.<br> 6.Confirmar o upload do documento. |
 | Resultado esperado |O documento é anexado com sucesso ao exame médico selecionado e pode ser visualizado pelos usuários autorizados.| 
-| Avaliação |  |
-| Evidência |  |
+| Avaliação | O sistema validou com sucesso o documento inserido. |
+| Evidência | <img src="img/exame.png"> |
 
 | **Caso de Teste** | **CT-004:  Registro de novo usuário** |
 | :--- | :---: |
