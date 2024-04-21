@@ -9,7 +9,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
 **Passos:**
 1. Logar no sistema.
 2. Navegar até a seção de receitas médicas.
-3. Clicar no botão "Adicionar Receita".
+3. Clicar no botão "Adicionar nova Receita".
 4. Preencher todos os campos obrigatórios.
 5. Salvar a receita.
 
