@@ -55,58 +55,28 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
 
 **Resultado Esperado:** O novo usuário é registrado com sucesso no sistema e pode efetuar login usando as credenciais fornecidas.
 
-## CT-005: Edição do Perfil do Usuário
+## CT-005: Registro de Novo Usuário - Campos Obrigatórios Ausentes
 
-**Descrição:** Verificar se os usuários podem editar suas informações de perfil com sucesso.
-
-**Passos:**
-1. Logar no sistema com as credenciais do usuário.
-2. Navegar até a seção de perfil do usuário.
-3. Clicar no botão de edição de perfil.
-4. Editar as informações necessárias.
-5. Salvar as alterações.
-
-**Resultado Esperado:** As informações do perfil do usuário são atualizadas corretamente no sistema após a edição.
-
-## CT-006: Confirmação da Administração de Dose
-
-**Descrição:** Verificar se o sistema exige confirmação da administração de dose do usuário e atualiza o estoque automaticamente.
+**Descrição:** Verificar se uma mensagem de erro é exibida quando os campos obrigatórios não são preenchidos durante o registro de um novo usuário.
 
 **Passos:**
-1. Logar no sistema com as credenciais do usuário.
-2. Navegar até a seção de administração de medicamentos.
-3. Selecionar um medicamento para administração.
-4. Confirmar a administração da dose.
+1. Acessar a página de registro do sistema.
+2. Deixar um ou mais campos obrigatórios em branco.
+3. Tentar confirmar o registro.
+4. Verificar se uma mensagem de erro é exibida indicando os campos obrigatórios que estão faltando.
 
-**Resultado Esperado:** O sistema subtrai a quantidade administrada do medicamento do estoque e atualiza automaticamente a quantidade disponível.
+**Resultado Esperado:** Uma mensagem de erro é exibida indicando os campos obrigatórios que precisam ser preenchidos.
 
-## CT-007: Emissão de Lembretes de Receita Médica
+## CT-006: Teste de Login com Nome de Usuário Inválido
 
-**Descrição:** Verificar se o sistema emite lembretes sobre datas e prazos relacionados à receita médica.
-
-**Passos:**
-1. Logar no sistema com as credenciais do usuário.
-2. Verificar se há lembretes sobre consultas de retorno, prazos e horários da consulta de retorno e validade da receita.
-
-**Resultado Esperado:** O sistema emite lembretes relevantes relacionados à receita médica conforme especificado nos requisitos.
-
-## CT-008: Emissão de Lembretes de Administração de Medicamentos
-
-**Descrição:** Verificar se o sistema emite lembretes sobre horários e prazos para a administração de medicamentos e alerta sobre a necessidade de reposição quando o estoque estiver baixo.
+**Descrição:** Verificar se o sistema impede o login com um nome de usuário inválido.
 
 **Passos:**
-1. Logar no sistema com as credenciais do usuário.
-2. Verificar se há lembretes sobre horários e prazos para a administração de medicamentos.
-3. Verificar se há alertas sobre a necessidade de reposição quando o estoque estiver baixo.
+1. Acessar a página de login do sistema.
+2. Inserir um nome de usuário inválido.
+3. Inserir uma senha válida.
+4. Clicar no botão de login.
+5. Verificar se o sistema exibe uma mensagem de erro indicando que o nome de usuário é inválido.
 
-**Resultado Esperado:** O sistema emite lembretes relevantes relacionados à administração de medicamentos conforme especificado nos requisitos.
+**Resultado Esperado:** O sistema impede o login e exibe uma mensagem de erro indicando que o nome de usuário é inválido.
 
-## CT-009: Emissão de Lembretes de Realização de Exames
-
-**Descrição:** Verificar se o sistema emite lembretes sobre datas e prazos para a realização de exames.
-
-**Passos:**
-1. Logar no sistema com as credenciais do usuário.
-2. Verificar se há lembretes sobre datas e prazos para a realização de exames.
-
-**Resultado Esperado:** O sistema emite lembretes relevantes relacionados à realização de exames conforme especificado nos requisitos.
