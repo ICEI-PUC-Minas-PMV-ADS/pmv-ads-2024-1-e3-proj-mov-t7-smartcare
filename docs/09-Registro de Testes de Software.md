@@ -46,7 +46,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Procedimentos (passo à passo) | 1.Acessar a página de registro do sistema.<br> 2.Preencher todos os campos obrigatórios.<br> 3.Escolher um nome de usuário e senha.<br> 4.Confirmar o registro. |
 | Resultado esperado |O novo usuário é registrado com sucesso no sistema e pode efetuar login usando as credenciais fornecidas|
 | Avaliação |O sistema validou com sucesso o novo usuario inserido.|
-| Evidência |<img src="img/novoUsuario.jpeg"> |
+| Evidência |<img src="img/NovoUsuario-.jpeg"> |
 
 | **Caso de Teste** | **CT-005: Edição dos perfil do usuário** |
 | :--- | :---: |
