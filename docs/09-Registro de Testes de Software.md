@@ -14,11 +14,8 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | CT-002:Edição de medicamento	|
 | CT-003:Anexação de docomento a um exame medico  |
 | CT-004:Registro de novo usuário  |
-| CT-005:Edição do perfil do usuário   |
-| CT-006:Confirmação da administração de dose   |
-| CT-007:Emissão de lembretes de receita médica   |
-| CT-008:Emissão de lembretes de administração de medicamentos   |
-| CT-009:Emissão de lembretes de realização de exames  |
+| CT-005:Registro de Novo Usuário - Campos Obrigatórios Ausentes  |
+| CT-006:Teste de Login com Nome de Usuário Inválido   |
 
 | **Caso de Teste**| **CT-001: Registro de nova receita** |
 | :--- | :---: |
@@ -48,39 +45,19 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Avaliação |O sistema validou com sucesso o novo usuario inserido.|
 | Evidência |<img src="img/NovoUsuario-.jpeg"> |
 
-| **Caso de Teste** | **CT-005: Edição dos perfil do usuário** |
+| **Caso de Teste** | **CT-005: Registro de Novo Usuário - Campos Obrigatórios Ausentes** |
 | :--- | :---: |
-| Procedimentos (passo à passo) | 1.Logar no sistema com as credenciais do usuário.<br> 2.Navegar até a seção de perfil do usuário.<br> 3.Clicar no botão de edição de perfil.<br> 4.Editar as informações necessárias. Salvar as alterações. |
-| Resultado esperado |As informações do perfil do usuário são atualizadas corretamente no sistema após a edição.|
+| Procedimentos (passo à passo) | 1.Acessar a página de registro do sistema.<br> 2.Tentar confirmar o registro sem preencher nenhum dos campos obrigatórios.<br>3.Verificar se o sistema exibe mensagens de erro indicando os campos obrigatórios que precisam ser preenchidos.<br> 4.Tentar confirmar o registro preenchendo apenas alguns dos campos obrigatórios.<br> 5.Verificar se o sistema exibe mensagens de erro indicando os campos obrigatórios que ainda estão em branco. |
+| Resultado esperado |O sistema impede o registro de um novo usuário quando os campos obrigatórios estão ausentes e exibe mensagens de erro relevantes indicando os campos que precisam ser preenchidos.|
 | Avaliação |  |
 | Evidência |  |
 
-| **Caso de Teste**| **CT-006:  Confirmação da Administração de Dose** |
+| **Caso de Teste**| **CT-006:  Teste de Login com Nome de Usuário Inválido** |
 | :--- | :---: |
-| Procedimentos (passo à passo) | 1.Logar no sistema com as credenciais do usuário.<br> 2.Navegar até a seção de administração de medicamentos.<br> 3.Selecionar um medicamento para administração.<br> 4.Confirmar a administração da dose. |
-| Resultado esperado |O sistema subtrai a quantidade administrada do medicamento do estoque e atualiza automaticamente a quantidade disponível.|
+| Procedimentos (passo à passo) | 1.Acessar a página de login do sistema.<br> 2.Inserir um nome de usuário inválido.<br> 3.Inserir uma senha válida.<br> 4.Tentar fazer login.<br> 5.Verificar se o sistema exibe uma mensagem de erro indicando que o nome de usuário é inválido.|
+| Resultado esperado |O sistema impede o login com um nome de usuário inválido e exibe uma mensagem de erro relevante indicando o problema.|
 | Avaliação |O sistema não subtrai nem atualiza.|
 | Evidência |<img src="img/Medicacao.jpeg"> |
 
-| **Caso de Teste**| **CT-007: Emissão de Lembretes de Receita Médica** |
-| :--- | :---: |
-| Procedimentos (passo à passo) | 1.Logar no sistema com as credenciais do usuário.<br> 2.Verificar se há lembretes sobre consultas de retorno, prazos e horários da consulta de retorno e validade da receita|
-| Resultado esperado |O sistema emite lembretes relevantes relacionados à receita médica conforme especificado nos requisitos.|
-| Avaliação |O sistema não emite o lembrete inserido.|
-| Evidência |<img src="img/Consulta.jpeg"> |
 
-| **Caso de Teste**| **CT-008: Emissão de Lembretes de Administração de Medicamentos** |
-| :--- | :---: |
-| Procedimentos (passo à passo) |  1.Logar no sistema com as credenciais do usuário.<br> 2.Verificar se há lembretes sobre horários e prazos para a administração de medicamentos.<br> 3.Verificar se há alertas sobre a necessidade de reposição quando o estoque estiver baixo. |
-| Resultado esperado |O sistema emite lembretes relevantes relacionados à administração de medicamentos conforme especificado nos requisitos.|
-| Avaliação |O sistema não emite o lembrete inserido|
-| Evidência |<img src="img/Medicacao.jpeg"> |
-
-| **Caso de Teste**| **CT-009: Emissão de Lembretes de Realização de Exames** |
-| :--- | :---: |
-| Procedimentos (passo à passo) |  1.Logar no sistema com as credenciais do usuário.<br>
-Verificar se há lembretes sobre datas e prazos para a realização de exames. |
-| Resultado esperado |O sistema emite lembretes relevantes relacionados à realização de exames conforme especificado nos requisitos|
-| Avaliação |O sistema não emite com o lembrete inserido|
-| Evidência | <img src="img/exame2.jpeg"> 
 
