@@ -54,21 +54,7 @@
   - O usuário deve conseguir excluir dados conforme desejado.
   - O usuário deve conseguir utilizar apenas as funcionalidades que desejar, sem que seja obrigado a utilizar as demais.
 
-## CT-006: Prevenção de erros
-- **Objetivo do Teste:** Verificar se o usuário recebe alertas antes de excluir dados salvos.
-- **Passos:**
-  1. Realizar login de usuário.
-  2. Verificar em todas as funcionalidades se a aplicação emite alerta, pedindo ao usuário confirmação para excluir dados salvos (ex: deseja excluir este evento?).
-- **Critério de Êxito:**
-  - Todas as funcionalidades devem emitir alerta, evitando que dados sejam apagados sem querer pelo usuário.
 
-## CT-007: Mensagens e alertas
-- **Objetivo do Teste:** Verificar se o usuário recebe mensagens e alertas quando realizar alguma ação inadequada.
-- **Passos:**
-  1. Acessar a aplicação.
-  2. Testar casos de erro no cadastro e login (formato de e-mail e senha inadequados, cadastro duplicado).
-  3. Realizar login de usuário.
-  4. Testar casos de erro nas funcionalidades (ex: cadastro de meta maior que o tempo disponível;
 
 
 
