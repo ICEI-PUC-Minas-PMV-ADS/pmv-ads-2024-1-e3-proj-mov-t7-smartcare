@@ -49,15 +49,15 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | :--- | :---: |
 | Procedimentos (passo à passo) | 1.Acessar a página de registro do sistema.<br> 2.Tentar confirmar o registro sem preencher nenhum dos campos obrigatórios.<br>3.Verificar se o sistema exibe mensagens de erro indicando os campos obrigatórios que precisam ser preenchidos.<br> 4.Tentar confirmar o registro preenchendo apenas alguns dos campos obrigatórios.<br> 5.Verificar se o sistema exibe mensagens de erro indicando os campos obrigatórios que ainda estão em branco. |
 | Resultado esperado |O sistema impede o registro de um novo usuário quando os campos obrigatórios estão ausentes e exibe mensagens de erro relevantes indicando os campos que precisam ser preenchidos.|
-| Avaliação |  |
-| Evidência |  |
+| Avaliação | O sistema não permite o registro do novo usuario sem os campos abrigatoriios prenchidos. |
+| Evidência |<img src="img/UsuarioInvalido.jpeg">|
 
 | **Caso de Teste**| **CT-006:  Teste de Login com Nome de Usuário Inválido** |
 | :--- | :---: |
 | Procedimentos (passo à passo) | 1.Acessar a página de login do sistema.<br> 2.Inserir um nome de usuário inválido.<br> 3.Inserir uma senha válida.<br> 4.Tentar fazer login.<br> 5.Verificar se o sistema exibe uma mensagem de erro indicando que o nome de usuário é inválido.|
 | Resultado esperado |O sistema impede o login com um nome de usuário inválido e exibe uma mensagem de erro relevante indicando o problema.|
-| Avaliação |O sistema não subtrai nem atualiza.|
-| Evidência |<img src="img/Medicacao.jpeg"> |
+| Avaliação |O sistema não permite o login como as credenciais incorretas.|
+| Evidência |<img src="img/camposAusentes.jpeg"> |
 
 
 
