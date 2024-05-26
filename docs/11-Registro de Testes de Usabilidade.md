@@ -29,12 +29,4 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 |Usuário 01|CT-005:Flexibilidade de uso|01| O usuário deve conseguir excluir dados conforme o desejado  |Exito|
 |Usuário 02|CT-005:Flexibilidade de uso|02| O usuário deve conseguir utilizar apenas as funcionalidades que desejar, sem que seja obrigado a utilizar as demais|Exito
 
-|Usuários|Caso de Teste de Usuário |Nota de Usuário |Comentários e observações|Exito ou Falha|
-|:---:|:---:|:---:|:---:|:---:|
-|Usuário 01|CT-006:Prevenção de erros|02|O sistema notificou as minhas ações|Exito|
-|Usuário 02|CT-006:Prevenção de erros|01|Todas as funcionalidades devem emitir alerta, evitando que dados sejam apagados sem querer pelo usuário|Falha|
 
-|Usuários|Caso de Teste de Usuário |Nota de Usuário |Comentários e observações|Exito ou Falha|
-|:---:|:---:|:---:|:---:|:---:|
-|Usuário 01|CT-007:Mensagens e alertas|02|Login não respeita o formato de e-mail e senha padrão (ex: ...@gmail.com)|Exito|
-|Usuário 02|CT-007:Mensagens e alertas|02|Todos os casos de erro devem ter mensagem e/ou alerta que indique ao usuário o motivo do erro e dê instruções para um uso correto da funcionalidade|Exito|
