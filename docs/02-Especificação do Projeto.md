@@ -242,7 +242,7 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-003|O sistema deve permitir o cadastro, consulta, atualização e exclusão (CRUD) de exames médicos, incluindo informações como: Nome do exame, Recomendação médica(documento), Local do exame, data e horários para realização. |ALTA|
 |RF-004|O sistema deve permitir que novos usuários se cadastrem na plataforma, incluindo informações como: Nome, data de nascimento, e-mail e telefone celular.|ALTA|
 |RF-005|O sistema deve permitir que usuários consultem, editem ou excluam suas informações de perfil.|ALTA|
-|RF-006|O usuário pode colocar o comentário em estoque a quantidade que ele tem de remedios e garantir que a quantidade tomada seja subtraída da quantidade em estoque. |BAIXA|
+|RF-006|O usuário pode colocar o comentário em estoque a quantidade que ele tem de remedios e garantir que a quantidade tomada seja subtraída da quantidade em estoque, terá um alerta toda vez que ele en trar nessa parte para lembra-lo de fazer a subtração dos remédios em estoque. |BAIXA|
 |RF-007|O sistema deve emitir lembretes sobre datas e prazos relacionados à receita médica, como consultas de retorno, prazos e horários da consulta de retorno e validade da receita.|BAIXA|
 |RF-008|O sistema deve emitir lembretes sobre horários e prazos para a administração de medicamentos, assim também como deve alertar sobre a necessidade de reposição quando o estoque estiver baixo.|BAIXA|
 |RF-009|O sistema deve emitir lembretes sobre datas e prazos para a realização de exames.|BAIXA|
