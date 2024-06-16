@@ -12,7 +12,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | :---	|
 | CT-001:Registro de nova receita  |
 | CT-002:Edição de medicamento	|
-| CT-003:Anexação de docomento a um exame medico  |
+| CT-003:Tentativa de Login com Senha Inválida  |
 | CT-004:Registro de novo usuário  |
 | CT-005:Registro de Novo Usuário - Campos Obrigatórios Ausentes  |
 | CT-006:Teste de Login com Nome de Usuário Inválido   |
@@ -31,11 +31,11 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Avaliação | O sistema valida com sucesso as alterações.|
 | Evidência |<img src="img/Medicacao.jpeg"> |
 
-| **Caso de Teste**| **CT-003:Anexação de documento a um exame médico** |
+| **Caso de Teste**| **CT-003:Tentativa de Login com Senha Inválida** |
 | :--- | :---: |
-| Procedimentos (passo à passo) | 1.Logar no sistema.<br> 2.Navegar até a seção de exames médicos.<br> 3.Selecionar um exame existente.<br> 4.Clicar no botão de anexar documento.<br> 5.Selecionar o documento a ser anexado.<br> 6.Confirmar o upload do documento. |
-| Resultado esperado |O documento é anexado com sucesso ao exame médico selecionado e pode ser visualizado pelos usuários autorizados.| 
-| Avaliação | O sistema validou com sucesso o documento inserido. |
+| Procedimentos (passo à passo) | 1.Abrir o aplicativo na tela de login.<br> 2.Inserir um nome de usuário válido no campo correspondente.<br> 3.Inserir uma senha inválida no campo de senha.<br> 4.Clicar no botão de login.|
+| Resultado esperado |O sistema não permite o login com a senha inválida e exibe uma mensagem de erro indicando que a senha está incorreta. O usuário deve permanecer na tela de login e deve ser solicitado a tentar novamente.| 
+| Avaliação | O sistema não permite que o usuario acesse as areas restritas. |
 | Evidência | <img src="img/exame.png"> |
 
 | **Caso de Teste** | **CT-004:  Registro de novo usuário** |
