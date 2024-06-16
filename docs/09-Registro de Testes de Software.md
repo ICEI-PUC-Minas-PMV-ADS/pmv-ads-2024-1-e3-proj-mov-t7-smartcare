@@ -22,14 +22,14 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Procedimentos (passo à passo) | 1.Logar no sistema.<br> 2.Navegar até a seção de receitas médicas.<br> 3.Clicar no botão "Adicionar nova receita Receita".<br> 4.Preencher todos os campos obrigatórios.<br> 5.Salvar a receita. |
 | Resultado esperado |A receita médica é registrada com sucesso no sistema e todas as informações são salvas corretamente|
 | Avaliação | O sistema validou com sucesso as informações inseridas. |
-| Evidência | [Assista ao vídeo](img/adicionarMedicamento.mp4)|
+| Evidência | <img src="img/edicaoMedicamento.gif">|
 
 | **Caso de Teste** | **CT-002: Edição de medicamento** |
 | :--- | :---: |
 | Procedimentos (passo à passo) | 1.Logar no sistema.<br> 2.Navegar até a seção de medicamentos.<br> 3.Selecionar um medicamento existente.<br> 4.Clicar no botão de edição.<br> 5.Alterar os detalhes do medicamento.<br> 6.Salvar as alterações. |
 | Resultado esperado | As informações do medicamento são atualizadas corretamente no sistema após a edição |
 | Avaliação | O sistema valida com sucesso as alterações.|
-| Evidência |<img src="img/Medicacao.jpeg"> |
+| Evidência |<img src="img/edicaoMedicamento.gif">|
 
 | **Caso de Teste**| **CT-003:Tentativa de Login com Senha Inválida** |
 | :--- | :---: |
