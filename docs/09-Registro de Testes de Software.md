@@ -36,28 +36,28 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Procedimentos (passo à passo) | 1.Abrir o aplicativo na tela de login.<br> 2.Inserir um nome de usuário válido no campo correspondente.<br> 3.Inserir uma senha inválida no campo de senha.<br> 4.Clicar no botão de login.|
 | Resultado esperado |O sistema não permite o login com a senha inválida e exibe uma mensagem de erro indicando que a senha está incorreta. O usuário deve permanecer na tela de login e deve ser solicitado a tentar novamente.| 
 | Avaliação | O sistema não permite que o usuario acesse as areas restritas. |
-| Evidência | <img src="img/exame.png"> |
+| Evidência | <img src="img/LogoinIncorreto.gif"> |
 
 | **Caso de Teste** | **CT-004:  Registro de novo usuário** |
 | :--- | :---: |
 | Procedimentos (passo à passo) | 1.Acessar a página de registro do sistema.<br> 2.Preencher todos os campos obrigatórios.<br> 3.Escolher um nome de usuário e senha.<br> 4.Confirmar o registro. |
 | Resultado esperado |O novo usuário é registrado com sucesso no sistema e pode efetuar login usando as credenciais fornecidas|
 | Avaliação |O sistema validou com sucesso o novo usuario inserido.|
-| Evidência |<img src="img/NovoUsuario-.jpeg"> |
+| Evidência |<img src="img/NovoUsuario.gif">|
 
 | **Caso de Teste** | **CT-005: Registro de Novo Usuário - Campos Obrigatórios Ausentes** |
 | :--- | :---: |
 | Procedimentos (passo à passo) | 1.Acessar a página de registro do sistema.<br> 2.Tentar confirmar o registro sem preencher nenhum dos campos obrigatórios.<br>3.Verificar se o sistema exibe mensagens de erro indicando os campos obrigatórios que precisam ser preenchidos.<br> 4.Tentar confirmar o registro preenchendo apenas alguns dos campos obrigatórios.<br> 5.Verificar se o sistema exibe mensagens de erro indicando os campos obrigatórios que ainda estão em branco. |
 | Resultado esperado |O sistema impede o registro de um novo usuário quando os campos obrigatórios estão ausentes e exibe mensagens de erro relevantes indicando os campos que precisam ser preenchidos.|
 | Avaliação | O sistema não permite o registro do novo usuario sem os campos abrigatoriios prenchidos. |
-| Evidência |<img src="img/UsuarioInvalido.jpeg">|
+| Evidência |<img src="img/LogoinIncorreto.gif">|
 
 | **Caso de Teste**| **CT-006:  Teste de Login com Nome de Usuário Inválido** |
 | :--- | :---: |
 | Procedimentos (passo à passo) | 1.Acessar a página de login do sistema.<br> 2.Inserir um nome de usuário inválido.<br> 3.Inserir uma senha válida.<br> 4.Tentar fazer login.<br> 5.Verificar se o sistema exibe uma mensagem de erro indicando que o nome de usuário é inválido.|
 | Resultado esperado |O sistema impede o login com um nome de usuário inválido e exibe uma mensagem de erro relevante indicando o problema.|
 | Avaliação |O sistema não permite o login como as credenciais incorretas.|
-| Evidência |<img src="img/camposAusentes.jpeg"> |
+| Evidência |<img src="img/LogoinIncorreto.gif">|
 
 
 
