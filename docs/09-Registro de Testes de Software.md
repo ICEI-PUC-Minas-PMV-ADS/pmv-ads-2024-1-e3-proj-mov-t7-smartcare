@@ -22,7 +22,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Procedimentos (passo à passo) | 1.Logar no sistema.<br> 2.Navegar até a seção de receitas médicas.<br> 3.Clicar no botão "Adicionar nova receita Receita".<br> 4.Preencher todos os campos obrigatórios.<br> 5.Salvar a receita. |
 | Resultado esperado |A receita médica é registrada com sucesso no sistema e todas as informações são salvas corretamente|
 | Avaliação | O sistema validou com sucesso as informações inseridas. |
-| Evidência |   <img src="img/remedio.png">|
+| Evidência | [Assista ao vídeo](img/adicionarMedicamento.mp4)|
 
 | **Caso de Teste** | **CT-002: Edição de medicamento** |
 | :--- | :---: |
