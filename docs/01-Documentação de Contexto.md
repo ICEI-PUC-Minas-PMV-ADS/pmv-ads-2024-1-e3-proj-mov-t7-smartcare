@@ -2,7 +2,7 @@
 
 <div align="justify">
   
-Atualmente, lidar com uma quantidade crescente de tarefas do dia a dia dificulta o acompanhamento dos cuidados pessoais de saúde. Conforme Navarro (2024), a falta de tempo é um dos principais fatores que prejudicam os cuidados com a saúde em seus diferentes aspectos como: falta de tempo para ir a consultas ou fazer exames, esquecimento de compromissos, prazos e horários para administração de medicamentos, ou ainda o esquecimento de contatos de emergência em situações importantes. Tais problemas podem ser ainda piores para pessoas que apresentam comorbidades graves ou que precisam ter um acompanhamento médico mais dedicado. 
+Atualmente, lidar com uma quantidade crescente de tarefas do dia a dia dificulta o acompanhamento dos cuidados pessoais de saúde. Conforme Navarro (2024), a falta de tempo é um dos principais fatores que prejudicam os cuidados com a saúde em seus diferentes aspectos como: falta de tempo para ir a consultas ou fazer exames, esquecimento de compromissos, prazos e horários para administração de medicamentos. Tais problemas podem ser ainda piores para pessoas que apresentam comorbidades graves ou que precisam ter um acompanhamento médico mais dedicado. 
 
 </div>
 
@@ -36,7 +36,7 @@ Atualmente, muitos indivíduos encontram dificuldades para acompanhar de forma o
 
 <div align="justify">
   
-Diversos aspectos da saúdem podem ser prejudicados devido a rotina e as tarefas diárias como por exemplo, a administração de medicamentos em prazos e horários corretos, o agendamento e comparecimento a consultas médicas, o armazenamento e consulta a resultados de exames e também informações de contato de emergência. A ausência de uma ferramenta integrada, intuitiva e dedicada para esse fim resulta em desafios de adesão ao tratamento, dificuldade em manter registros precisos e a possibilidade de esquecimentos que podem comprometer a saúde e o bem-estar do usuário. Além disso, o ritmo acelerado da vida moderna torna ainda mais desafiador dedicar tempo e esforço à gestão adequada da saúde. Essas lacunas no acompanhamento da saúde pessoal destacam a necessidade de uma solução como o SmartCare, que ofereça uma abordagem inteligente e eficaz baseada em heurísticas e UI/UX para simplificar e otimizar o cuidado de saúde individual através do app. 
+Diversos aspectos da saúdem podem ser prejudicados devido a rotina e as tarefas diárias como por exemplo, a administração de medicamentos em prazos e horários corretos, o agendamento e comparecimento a consultas médicas, o armazenamento e consulta a resultados de exames. A ausência de uma ferramenta integrada, intuitiva e dedicada para esse fim resulta em desafios de adesão ao tratamento, dificuldade em manter registros precisos e a possibilidade de esquecimentos que podem comprometer a saúde e o bem-estar do usuário. Além disso, o ritmo acelerado da vida moderna torna ainda mais desafiador dedicar tempo e esforço à gestão adequada da saúde. Essas lacunas no acompanhamento da saúde pessoal destacam a necessidade de uma solução como o SmartCare, que ofereça uma abordagem inteligente e eficaz baseada em heurísticas e UI/UX para simplificar e otimizar o cuidado de saúde individual através do app. 
 
 </div>
 
@@ -57,8 +57,7 @@ Com o intuito de solucionar os desafios mencionados, o presente projeto tem como
 
 - Gestão do estoque de medicamentos, com alertas inteligentes para reposição quando necessário, evitando interrupções no tratamento devido à falta de medicamentos. 
 
-- Criação de uma rede de contatos de emergência, garantindo acesso rápido aos contatos em situações de emergência médica. 
-
+ 
 <div align="justify">
   
 Ao abordar esses aspectos o SmartCare busca oferecer uma solução completa e eficaz para os desafios enfrentados no cuidado da saúde pessoal, promovendo assim uma maior qualidade de vida e bem-estar para seus usuários. 
