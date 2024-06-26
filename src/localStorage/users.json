@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "fulano",
+      "email": "fulano@gmail.com",
+      "password": "senha",
+      "birthDate": "dd/mm/yyyy",
+      "cellPhone": "(92)998761-9880"
+    },
+    {
+      "id": 1,
+      "name": "ciclano",
+      "email": "ciclano@gmail.com",
+      "password": "senha",
+      "birthDate": "dd/mm/yyyy",
+      "cellPhone": "(92)998761-9880"
+    }
+  ]
+}
